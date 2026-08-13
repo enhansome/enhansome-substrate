@@ -1,0 +1,1560 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polkadot Stack",
+          "description": "An maintained by our friends at Web3 Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T15:16:40Z",
+            "owner": "w3f",
+            "repo": "Grants-Program",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Technical Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polkadot: Vision for a heterogeneous multi-chain framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2020-05-13T10:58:01Z",
+                "owner": "polkadot-io",
+                "repo": "polkadot-white-paper",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Overview of Polkadot and its Design Considerations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Chinese Translation",
+                  "description": "(by community)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2021-09-01T03:23:01Z",
+                    "owner": "AmadeusGB",
+                    "repo": "Overview-of-Polkadot",
+                    "stars": 31
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frontier",
+          "description": "Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:21:11Z",
+            "owner": "polkadot-evm",
+            "repo": "frontier",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Front-End",
+          "description": "Polkadot-JS API and React app to build front-ends for Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-02-06T10:36:47Z",
+            "owner": "jimmychu0807",
+            "repo": "substrate-front-end-template",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A template for a Substrate node that includes staking and governance capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-07T10:11:59Z",
+            "owner": "kaichaosun",
+            "repo": "substrate-stencil",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polkadot-js-api-ts-template",
+          "description": "A template project to kickstart hacking on top of .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-10T19:09:19Z",
+            "owner": "kianenigma",
+            "repo": "polkadot-js-api-ts-template",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Base",
+          "description": "Minimal FRAME-based node, derived from upstream.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Parachain",
+          "description": "Cumulus enabled Substrate node, derived from upstream.",
+          "children": []
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official in Substrate",
+          "description": "Large collection, Parity maintained.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-25T20:31:30Z",
+            "owner": "paritytech",
+            "repo": "substrate",
+            "stars": 8398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Runtime Module Library (ORML)",
+          "description": "Community maintained collection of Substrate runtime modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-17T21:28:59Z",
+            "owner": "open-web3-stack",
+            "repo": "open-runtime-module-library",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainlink Feed Pallet",
+          "description": "Chainlink feed token interface.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-09-06T19:50:58Z",
+            "owner": "smartcontractkit",
+            "repo": "chainlink-polkadot",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RMRK Pallets",
+          "description": "Nested, conditional & Multi-resourced NFTs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-06T12:11:08Z",
+            "owner": "rmrk-team",
+            "repo": "rmrk-substrate",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunshine Identity",
+          "description": "Keybase-inspired identity management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-10-21T04:01:52Z",
+            "owner": "libreamartists",
+            "repo": "sunshine-keybase",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunshine Faucet",
+          "description": "Dispense resources for a development chain.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-10-21T04:01:52Z",
+            "owner": "libreamartists",
+            "repo": "sunshine-keybase",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunshine Bounty",
+          "description": "Distributed autonomous organization (DAO) for administering a bounty program.",
+          "children": []
+        }
+      ],
+      "title": "FRAME Pallets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ink!",
+          "description": "Rust smart contract language for Substrate chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T22:17:43Z",
+            "owner": "use-ink",
+            "repo": "ink",
+            "stars": 1458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cumulus",
+          "description": "A set of tools for writing Substrate-based Polkadot parachains.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-11-15T12:07:40Z",
+            "owner": "paritytech",
+            "repo": "cumulus",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontier",
+          "description": "End-to-end Ethereum emulation for Substrate chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:21:11Z",
+            "owner": "polkadot-evm",
+            "repo": "frontier",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridges",
+          "description": "A collection of tools for cross-chain communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T21:24:31Z",
+            "owner": "paritytech",
+            "repo": "parity-bridges-common",
+            "stars": 280
+          }
+        }
+      ],
+      "title": "Framework Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polkadot-JS API",
+          "description": "Semi-official JavaScript library for Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T12:27:11Z",
+            "owner": "polkadot-js",
+            "repo": "api",
+            "stars": 1108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Official Rust client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T00:43:54Z",
+            "owner": "paritytech",
+            "repo": "subxt",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust API Client",
+          "description": "Rust client maintained by Supercomputers Systems AG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T16:25:32Z",
+            "owner": "scs",
+            "repo": "substrate-api-client",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Interface",
+          "description": "Maintained by Polkascan Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T13:18:49Z",
+            "owner": "JAMdotTech",
+            "repo": "py-polkadot-sdk",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subscan Go Utilities",
+          "description": "SS58 and more, developed by Subscan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T17:46:28Z",
+            "owner": "subscan-explorer",
+            "repo": "subscan-essentials",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go RPC Client",
+          "description": "Maintained by Centrifuge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-19T13:10:16Z",
+            "owner": "centrifuge",
+            "repo": "go-substrate-rpc-client",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-24T07:12:20Z",
+            "owner": "scio-labs",
+            "repo": "use-inkathon",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".Net API",
+          "description": "Maintained by Usetech.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T06:10:14Z",
+            "owner": "usetech-llc",
+            "repo": "polkadot_api_dotnet",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subsocial JS SDK",
+          "description": "A JS SDK for developers to build web3 social apps on top of Subsocial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-31T01:44:42Z",
+            "owner": "dappforce",
+            "repo": "subsocial-js",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET Substrate API",
+          "description": "Used in nuget, and Unity Example; Maintained by Ajuna Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-09T08:53:12Z",
+            "owner": "SubstrateGaming",
+            "repo": "Substrate.NET.API",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Lightweight Rust client library and CLI with support for type information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T17:58:32Z",
+            "owner": "virto-network",
+            "repo": "virto-sdk",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ API",
+          "description": "Maintained by Usetech.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-04T14:12:00Z",
+            "owner": "usetech-llc",
+            "repo": "polkadot_api_cpp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin Client",
+          "description": "Maintained by Nodle.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-09-10T12:03:58Z",
+            "owner": "NodleCode",
+            "repo": "substrate-client-kotlin",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Generate Go (de)serialization/client code from Substrate metadata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-30T04:23:44Z",
+            "owner": "Aphoh",
+            "repo": "go-substrate-gen",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sub-Api",
+          "description": "Friendly wrapper for Polkadot.js API maintained by KodaDot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T17:26:49Z",
+            "owner": "kodadot",
+            "repo": "packages",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET Toolchain/SDK",
+          "description": "Toolchain for Substrate .NET. Pre-generated SubstrateNET; Maintained by Ajuna Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-26T09:56:33Z",
+            "owner": "ajuna-network",
+            "repo": "Ajuna.SDK",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nova Substrate SDK iOS",
+          "description": "Substrate SDK and tools for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-07T10:45:42Z",
+            "owner": "novasamatech",
+            "repo": "substrate-sdk-ios",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova Substrate SDK Android",
+          "description": "Substrate SDK and tools for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-17T12:16:53Z",
+            "owner": "novasamatech",
+            "repo": "substrate-sdk-android",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-Native-Substrate-Sign",
+          "description": "Rust library for React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-04-14T09:57:12Z",
+            "owner": "paritytech",
+            "repo": "react-native-substrate-sign",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polkadot-Dart",
+          "description": "Dart Substrate API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-07-22T14:28:09Z",
+            "owner": "Pocket4D",
+            "repo": "Polkadot-Dart",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fearless Utils Android",
+          "description": "Android Substrate tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-16T14:12:20Z",
+            "owner": "soramitsu",
+            "repo": "fearless-utils-Android",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolkaWallet SDK",
+          "description": "Flutter SDK for Substrate-based App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-03-30T14:36:15Z",
+            "owner": "polkawallet-io",
+            "repo": "sdk",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fearless Utils iOS",
+          "description": "iOS Substrate tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-09-15T09:21:34Z",
+            "owner": "soramitsu",
+            "repo": "fearless-utils-iOS",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polkadot-JS Extension",
+          "description": "Browser extension for interacting with Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T16:13:21Z",
+            "owner": "polkadot-js",
+            "repo": "extension",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple CLI tool to launch a local Polkadot test network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T03:16:40Z",
+            "owner": "paritytech",
+            "repo": "polkadot-launch",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidecar",
+          "description": "REST service that runs alongside Substrate nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T06:58:11Z",
+            "owner": "paritytech",
+            "repo": "substrate-api-sidecar",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archive",
+          "description": "Indexing engine for Substrate chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-06T23:07:15Z",
+            "owner": "paritytech",
+            "repo": "substrate-archive",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fork Off Substrate",
+          "description": "Script to help bootstrap a new chain with the state of a running chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-18T08:19:00Z",
+            "owner": "maxsam4",
+            "repo": "fork-off-substrate",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Tool to predict nominated proof-of-stake elections.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-11-18T16:11:01Z",
+            "owner": "paritytech",
+            "repo": "substrate-debug-kit",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substrate debug-kit",
+          "description": "A collection of tools and libraries for debugging Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-11-18T16:11:01Z",
+            "owner": "paritytech",
+            "repo": "substrate-debug-kit",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Staking Rewards Collector",
+          "description": "A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T09:53:57Z",
+            "owner": "jonasW3F",
+            "repo": "staking-rewards-collector",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Docker image to deterministically build a runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-17T12:31:56Z",
+            "owner": "paritytech",
+            "repo": "srtool",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Europa",
+          "description": "A sandbox for the Substrate runtime execution environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-18T14:21:05Z",
+            "owner": "patractlabs",
+            "repo": "europa",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "An all-in-one Substrate development toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-05-19T14:40:48Z",
+            "owner": "hack-ink",
+            "repo": "subalfred",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WebAssembly",
+            "last_commit": "2025-03-13T16:35:09Z",
+            "owner": "chevdor",
+            "repo": "subwasm",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redspot",
+          "description": "A Truffle-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-09T05:09:04Z",
+            "owner": "patractlabs",
+            "repo": "redspot",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TxWrapper",
+          "description": "Helpful library for offline transaction creation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-09-29T09:06:04Z",
+            "owner": "paritytech",
+            "repo": "txwrapper",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jupiter",
+          "description": "Testnet for smart contracts written for the FRAME Contracts pallet and ink!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-05-01T03:42:50Z",
+            "owner": "patractlabs",
+            "repo": "jupiter",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydra",
+          "description": "A GraphQL framework for Substrate nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-19T11:42:25Z",
+            "owner": "Joystream",
+            "repo": "hydra",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova Polkadot Utils",
+          "description": "Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:50:09Z",
+            "owner": "novasamatech",
+            "repo": "nova-utils",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polkadot PANIC",
+          "description": "Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T20:10:40Z",
+            "owner": "SimplyStaking",
+            "repo": "panic_polkadot",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halva",
+          "description": "A toolchain for improving the experience of developing on Substrate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T20:46:01Z",
+            "owner": "halva-suite",
+            "repo": "halva",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substrate Graph",
+          "description": "GraphQL indexer for Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-07T07:33:58Z",
+            "owner": "playzero",
+            "repo": "substrate-graph",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API; Also deployed as a website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T19:27:04Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-js-utilities",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A collection of scripts Parity uses to diagnose Polkadot/Kusama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T11:05:29Z",
+            "owner": "paritytech",
+            "repo": "polkadot-scripts",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "CLI to inspect metadata of a Substrate node as JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-04-26T09:25:25Z",
+            "owner": "ascjones",
+            "repo": "subsee",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Another tool to launch a local Polkadot test network, with emphasis on the ability to run big testnets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-03-06T06:24:56Z",
+            "owner": "koute",
+            "repo": "polkadot-starship",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "CLI frontend for the Docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-27T10:02:41Z",
+            "owner": "chevdor",
+            "repo": "srtool-cli",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fudge",
+          "description": "Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-06T16:29:14Z",
+            "owner": "centrifuge",
+            "repo": "fudge",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "GitHub actions to easily use the Docker image to build your own runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Just",
+            "last_commit": "2024-01-02T14:47:31Z",
+            "owner": "chevdor",
+            "repo": "srtool-actions",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substrate Docker Builders",
+          "description": "A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-04-13T21:56:53Z",
+            "owner": "ETeissonniere",
+            "repo": "substrate-nodeops",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Analogous to but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic given type info from .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-17T15:41:51Z",
+            "owner": "paritytech",
+            "repo": "scale-value",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxy Hot Wallet Demo",
+          "description": "A demonstration of a secure, convenient, and flexible hot wallet architecture built on Substrate primitives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-30T03:51:52Z",
+            "owner": "canontech",
+            "repo": "proxy-hot-wallet",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Command line tool for generating or upgrading a Substrate node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-12-07T12:36:37Z",
+            "owner": "clearloop",
+            "repo": "sup",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typechain-Polkadot",
+          "description": "Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-06T18:47:37Z",
+            "owner": "Supercolony-net",
+            "repo": "typechain-polkadot",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gantree Library",
+          "description": "A suite of technologies for managing Substrate-powered parachain networks via rapid spin-up & tear-down.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T05:00:54Z",
+            "owner": "gantree-io",
+            "repo": "gantree-lib-nodejs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Graph the benchmark output of FRAME pallets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-25T01:18:24Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-graph-benchmarks",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Prometheus exporter for Polkadot runtime metrics (modifiable for Substrate use).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-10-26T08:50:03Z",
+            "owner": "paritytech",
+            "repo": "polkadot-runtime-prom-exporter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A toml parser and checker to avoid common errors in Substrate projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-03T12:02:24Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-toml-lint",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-21T12:16:31Z",
+            "owner": "paritytech",
+            "repo": "scale-decode",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Breakdown the balances of your Substrate account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-09T23:42:23Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-balance-calculator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubID",
+          "description": "An advanced cross-chain portfolio management tool for the Polkadot ecosystem, allowing any user to see their balances across chains; view their crowdloan history; view their NFTs across Polkadot ecosystem chains; claim their vested tokens and perform cross-chain transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-13T10:56:52Z",
+            "owner": "dappforce",
+            "repo": "subid",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A standalone JS bundle that contains Polkadot{JS} libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-25T17:34:18Z",
+            "owner": "shawntabrizi",
+            "repo": "polkadot-js-bundle",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Create a graph of the token balance over time of a Substrate address.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-09T23:34:21Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-balance-graph",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A basic front-end for the FRAME Society pallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T05:15:51Z",
+            "owner": "shawntabrizi",
+            "repo": "substrate-society",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substate",
+          "description": "100% no-std/wasm compatible Substrate storage key generator library for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-16T16:18:05Z",
+            "owner": "arrudagates",
+            "repo": "substate",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uptest Runtime upgrade tool",
+          "description": "Uptest command line client and libuptest Rust library are two tools used for debugging storage changes and runtime upgrades.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-13T01:11:33Z",
+            "owner": "uptest-sc",
+            "repo": "uptest",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minimark",
+          "description": "Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T17:26:49Z",
+            "owner": "kodadot",
+            "repo": "packages",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Substrate Faucet Bot",
+          "description": "Python-based faucet for development purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T14:13:45Z",
+            "owner": "starkleytech",
+            "repo": "substrate-faucet",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Megaclite",
+          "description": "Zero-knowledge tools for the Polkadot ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-03-16T08:16:17Z",
+            "owner": "patractlabs",
+            "repo": "megaclite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dev Hub Utils",
+          "description": "Unofficial utilities for working with official Substrate Developer Hub resources.",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "SubQuery",
+          "description": "A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nova SubQuery API",
+              "description": "A SubQuery API implementation for operation history and staking analytics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T15:48:07Z",
+                "owner": "novasamatech",
+                "repo": "subquery-history",
+                "stars": 22
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gossamer",
+          "description": "A Polkadot client implemented in Go; from ChainSafe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:05:35Z",
+            "owner": "ChainSafe",
+            "repo": "gossamer",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LimeChain AssemblyScript Runtime",
+          "description": "An account-based Substrate proof-of-concept runtime written in AssemblyScript; from LimeChain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-20T22:42:18Z",
+            "owner": "LimeChain",
+            "repo": "as-substrate-runtime",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Alternative Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parity SCALE Codec",
+          "description": "Reference implementation written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T14:43:30Z",
+            "owner": "paritytech",
+            "repo": "parity-scale-codec",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell",
+          "description": "Maintained by Robonomics Network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-02-24T13:31:05Z",
+            "owner": "airalab",
+            "repo": "hs-web3",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": "Maintained by Itering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T04:29:21Z",
+            "owner": "subscan-explorer",
+            "repo": "scale.go",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": "Maintained by Emerald.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-30T23:18:55Z",
+            "owner": "splix",
+            "repo": "polkaj",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": "Maintained by Polkascan Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T14:00:37Z",
+            "owner": "JAMdotTech",
+            "repo": "py-scale-codec",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssemblyScript",
+          "description": "Maintained by LimeChain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-12T06:12:11Z",
+            "owner": "LimeChain",
+            "repo": "as-scale-codec",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": "Maintained by Itering.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2022-10-10T06:39:15Z",
+            "owner": "itering",
+            "repo": "scale.rb",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C",
+          "description": "Maintained by Matthew Darnell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-02-16T11:39:53Z",
+            "owner": "MatthewDarnell",
+            "repo": "cScale",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++",
+          "description": "Maintained by Soramitsu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-15T14:21:35Z",
+            "owner": "qdrvm",
+            "repo": "scale-codec-cpp",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scales",
+          "description": "Serializing SCALE using type information from a type registry.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-01-17T17:18:49Z",
+            "owner": "virto-network",
+            "repo": "scales",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "JavaScript / TypeScript implementations:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "polkadot-js/api",
+              "description": "Maintained by Polkadot-JS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T12:27:11Z",
+                "owner": "polkadot-js",
+                "repo": "api",
+                "stars": 1108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scale-ts",
+              "description": "Maintained by Josep M Sobrepere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-10-28T15:55:38Z",
+                "owner": "unstoppablejs",
+                "repo": "unstoppablejs",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "soramitsu/scale-codec-js-library",
+              "description": "Maintained by Soramitsu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-08-03T05:53:44Z",
+                "owner": "soramitsu",
+                "repo": "scale-codec-js-library",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "SCALE Codec"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:33.528Z",
+    "original_repository": "polkadot-developers/awesome-substrate",
+    "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
+    "enhanced_repository": "enhansome/enhansome-substrate",
+    "enhanced_repository_description": null,
+    "title": "Awesome Substrate with stars"
+  }
+}
