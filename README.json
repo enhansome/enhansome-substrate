@@ -76,7 +76,7 @@
             "last_commit": "2026-08-10T23:21:11Z",
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 614
+            "stars": 615
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-10T23:21:11Z",
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 614
+            "stars": 615
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T00:43:54Z",
+            "last_commit": "2026-08-13T22:40:45Z",
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 488
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-17T16:25:32Z",
+            "last_commit": "2026-08-13T15:13:21Z",
             "owner": "scs",
             "repo": "substrate-api-client",
             "stars": 263
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:50:09Z",
+            "last_commit": "2026-08-14T00:51:16Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45
@@ -1550,7 +1550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:33.528Z",
+    "last_updated": "2026-08-14T05:15:27.091Z",
     "original_repository": "polkadot-developers/awesome-substrate",
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
     "enhanced_repository": "enhansome/enhansome-substrate",
