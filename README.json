@@ -14,7 +14,7 @@
             "last_commit": "2026-03-19T15:16:40Z",
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1187
+            "stars": 1186
           }
         },
         {
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:13:49Z",
+            "last_commit": "2026-08-15T12:59:38Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45
@@ -1550,7 +1550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:04:35.588Z",
+    "last_updated": "2026-08-16T04:08:30.065Z",
     "original_repository": "polkadot-developers/awesome-substrate",
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
     "enhanced_repository": "enhansome/enhansome-substrate",
