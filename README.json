@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223565044,
             "language": "JavaScript",
             "last_commit": "2026-03-19T15:16:40Z",
             "owner": "w3f",
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 73687395,
                 "language": "TeX",
                 "last_commit": "2020-05-13T10:58:01Z",
                 "owner": "polkadot-io",
@@ -48,6 +50,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 377148607,
                     "language": null,
                     "last_commit": "2021-09-01T03:23:01Z",
                     "owner": "AmadeusGB",
@@ -63,7 +66,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +75,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156708951,
             "language": "Rust",
             "last_commit": "2026-08-10T23:21:11Z",
             "owner": "polkadot-evm",
@@ -86,6 +90,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 202555590,
             "language": "JavaScript",
             "last_commit": "2025-02-06T10:36:47Z",
             "owner": "jimmychu0807",
@@ -100,6 +105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276259339,
             "language": "Rust",
             "last_commit": "2023-06-07T10:11:59Z",
             "owner": "kaichaosun",
@@ -114,30 +120,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367914489,
             "language": "TypeScript",
             "last_commit": "2024-06-10T19:09:19Z",
             "owner": "kianenigma",
             "repo": "polkadot-js-api-ts-template",
             "stars": 17
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Base",
-          "description": "Minimal FRAME-based node, derived from upstream.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Parachain",
-          "description": "Cumulus enabled Substrate node, derived from upstream.",
-          "children": []
         }
       ],
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -146,6 +141,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109872620,
             "language": "Rust",
             "last_commit": "2023-09-25T20:31:30Z",
             "owner": "paritytech",
@@ -160,6 +156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218390670,
             "language": "Rust",
             "last_commit": "2026-03-17T21:28:59Z",
             "owner": "open-web3-stack",
@@ -174,6 +171,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 227884596,
             "language": "Go",
             "last_commit": "2023-09-06T19:50:58Z",
             "owner": "smartcontractkit",
@@ -188,6 +186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435683716,
             "language": "TypeScript",
             "last_commit": "2023-10-06T12:11:08Z",
             "owner": "rmrk-team",
@@ -202,6 +201,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 268377110,
             "language": "Rust",
             "last_commit": "2020-10-21T04:01:52Z",
             "owner": "libreamartists",
@@ -216,24 +216,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 268377110,
             "language": "Rust",
             "last_commit": "2020-10-21T04:01:52Z",
             "owner": "libreamartists",
             "repo": "sunshine-keybase",
             "stars": 33
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sunshine Bounty",
-          "description": "Distributed autonomous organization (DAO) for administering a bounty program.",
-          "children": []
         }
       ],
       "title": "FRAME Pallets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -242,6 +237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161224066,
             "language": "Rust",
             "last_commit": "2026-03-25T22:17:43Z",
             "owner": "use-ink",
@@ -256,6 +252,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 165911534,
             "language": "Rust",
             "last_commit": "2023-11-15T12:07:40Z",
             "owner": "paritytech",
@@ -270,6 +267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156708951,
             "language": "Rust",
             "last_commit": "2026-08-10T23:21:11Z",
             "owner": "polkadot-evm",
@@ -284,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237876143,
             "language": "Rust",
             "last_commit": "2026-08-17T01:15:53Z",
             "owner": "paritytech",
@@ -295,7 +294,7 @@
       "title": "Framework Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -304,6 +303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111184073,
             "language": "TypeScript",
             "last_commit": "2026-07-22T12:27:11Z",
             "owner": "polkadot-js",
@@ -318,6 +318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200629301,
             "language": "Rust",
             "last_commit": "2026-08-17T11:34:21Z",
             "owner": "paritytech",
@@ -332,6 +333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181680099,
             "language": "Rust",
             "last_commit": "2026-08-18T06:58:04Z",
             "owner": "scs",
@@ -346,6 +348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180998078,
             "language": "Python",
             "last_commit": "2026-06-15T13:18:49Z",
             "owner": "JAMdotTech",
@@ -360,6 +363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211015875,
             "language": "Go",
             "last_commit": "2026-07-24T17:46:28Z",
             "owner": "subscan-explorer",
@@ -374,6 +378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190606637,
             "language": "Go",
             "last_commit": "2024-09-19T13:10:16Z",
             "owner": "centrifuge",
@@ -388,6 +393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587341753,
             "language": "TypeScript",
             "last_commit": "2025-11-24T07:12:20Z",
             "owner": "scio-labs",
@@ -402,6 +408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203977169,
             "language": "C#",
             "last_commit": "2022-12-08T06:10:14Z",
             "owner": "usetech-llc",
@@ -416,6 +423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243091124,
             "language": "TypeScript",
             "last_commit": "2024-08-31T01:44:42Z",
             "owner": "dappforce",
@@ -430,6 +438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415349794,
             "language": "C#",
             "last_commit": "2025-06-09T08:53:12Z",
             "owner": "SubstrateGaming",
@@ -444,6 +453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343226536,
             "language": "Rust",
             "last_commit": "2026-07-30T17:58:32Z",
             "owner": "virto-network",
@@ -458,6 +468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189715716,
             "language": "C++",
             "last_commit": "2023-09-04T14:12:00Z",
             "owner": "usetech-llc",
@@ -472,6 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306563705,
             "language": "Kotlin",
             "last_commit": "2021-09-10T12:03:58Z",
             "owner": "NodleCode",
@@ -486,6 +498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476874266,
             "language": "Go",
             "last_commit": "2023-08-30T04:23:44Z",
             "owner": "Aphoh",
@@ -500,6 +513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452280902,
             "language": "TypeScript",
             "last_commit": "2025-12-23T17:26:49Z",
             "owner": "kodadot",
@@ -514,6 +528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619111865,
             "language": null,
             "last_commit": "2023-03-26T09:56:33Z",
             "owner": "ajuna-network",
@@ -525,7 +540,7 @@
       "title": "Client Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -534,6 +549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420012497,
             "language": "Swift",
             "last_commit": "2026-08-07T10:45:42Z",
             "owner": "novasamatech",
@@ -548,6 +564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429839517,
             "language": "Kotlin",
             "last_commit": "2026-07-17T12:16:53Z",
             "owner": "novasamatech",
@@ -562,6 +579,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 276053202,
             "language": "Rust",
             "last_commit": "2021-04-14T09:57:12Z",
             "owner": "paritytech",
@@ -576,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 305577623,
             "language": "Dart",
             "last_commit": "2021-07-22T14:28:09Z",
             "owner": "Pocket4D",
@@ -590,6 +609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278060389,
             "language": "Kotlin",
             "last_commit": "2026-03-16T14:12:20Z",
             "owner": "soramitsu",
@@ -604,6 +624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288364850,
             "language": "Dart",
             "last_commit": "2025-03-30T14:36:15Z",
             "owner": "polkawallet-io",
@@ -618,6 +639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278060379,
             "language": "Swift",
             "last_commit": "2023-09-15T09:21:34Z",
             "owner": "soramitsu",
@@ -629,7 +651,7 @@
       "title": "Mobile"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -638,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187620157,
             "language": "TypeScript",
             "last_commit": "2026-07-31T16:13:21Z",
             "owner": "polkadot-js",
@@ -652,6 +675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292541678,
             "language": "TypeScript",
             "last_commit": "2023-02-04T03:16:40Z",
             "owner": "paritytech",
@@ -666,6 +690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224672691,
             "language": "TypeScript",
             "last_commit": "2026-08-02T06:58:11Z",
             "owner": "paritytech",
@@ -680,6 +705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205807439,
             "language": "Rust",
             "last_commit": "2023-03-06T23:07:15Z",
             "owner": "paritytech",
@@ -694,6 +720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280818534,
             "language": "JavaScript",
             "last_commit": "2024-04-18T08:19:00Z",
             "owner": "maxsam4",
@@ -708,6 +735,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212818473,
             "language": "Rust",
             "last_commit": "2021-11-18T16:11:01Z",
             "owner": "paritytech",
@@ -722,6 +750,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212818473,
             "language": "Rust",
             "last_commit": "2021-11-18T16:11:01Z",
             "owner": "paritytech",
@@ -736,6 +765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310317188,
             "language": "JavaScript",
             "last_commit": "2026-08-11T09:53:57Z",
             "owner": "jonasW3F",
@@ -750,6 +780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308416420,
             "language": "Shell",
             "last_commit": "2026-06-17T12:31:56Z",
             "owner": "paritytech",
@@ -764,6 +795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286742818,
             "language": "Rust",
             "last_commit": "2022-06-18T14:21:05Z",
             "owner": "patractlabs",
@@ -778,6 +810,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 308101834,
             "language": "Rust",
             "last_commit": "2025-05-19T14:40:48Z",
             "owner": "hack-ink",
@@ -792,6 +825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373303166,
             "language": "WebAssembly",
             "last_commit": "2025-03-13T16:35:09Z",
             "owner": "chevdor",
@@ -806,6 +840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297047159,
             "language": "TypeScript",
             "last_commit": "2022-07-09T05:09:04Z",
             "owner": "patractlabs",
@@ -820,6 +855,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 224686349,
             "language": "TypeScript",
             "last_commit": "2021-09-29T09:06:04Z",
             "owner": "paritytech",
@@ -834,6 +870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288958582,
             "language": "Rust",
             "last_commit": "2022-05-01T03:42:50Z",
             "owner": "patractlabs",
@@ -848,6 +885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288132863,
             "language": "TypeScript",
             "last_commit": "2024-03-19T11:42:25Z",
             "owner": "Joystream",
@@ -862,8 +900,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421781829,
             "language": "Python",
-            "last_commit": "2026-08-18T14:13:00Z",
+            "last_commit": "2026-08-19T09:16:26Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45
@@ -876,6 +915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235358773,
             "language": "Python",
             "last_commit": "2023-03-05T20:10:40Z",
             "owner": "SimplyStaking",
@@ -890,6 +930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276251669,
             "language": "TypeScript",
             "last_commit": "2022-12-30T20:46:01Z",
             "owner": "halva-suite",
@@ -904,6 +945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268479380,
             "language": "Elixir",
             "last_commit": "2023-01-07T07:33:58Z",
             "owner": "playzero",
@@ -918,6 +960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231917129,
             "language": "JavaScript",
             "last_commit": "2026-03-26T19:27:04Z",
             "owner": "shawntabrizi",
@@ -932,6 +975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390328919,
             "language": "TypeScript",
             "last_commit": "2025-11-21T11:05:29Z",
             "owner": "paritytech",
@@ -946,6 +990,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 329979241,
             "language": "Rust",
             "last_commit": "2022-04-26T09:25:25Z",
             "owner": "ascjones",
@@ -960,6 +1005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401611224,
             "language": "Ruby",
             "last_commit": "2024-03-06T06:24:56Z",
             "owner": "koute",
@@ -974,6 +1020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374573072,
             "language": "Rust",
             "last_commit": "2025-02-27T10:02:41Z",
             "owner": "chevdor",
@@ -988,6 +1035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456964731,
             "language": "Rust",
             "last_commit": "2024-06-06T16:29:14Z",
             "owner": "centrifuge",
@@ -1002,6 +1050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371758792,
             "language": "Just",
             "last_commit": "2024-01-02T14:47:31Z",
             "owner": "chevdor",
@@ -1016,6 +1065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299996580,
             "language": "Dockerfile",
             "last_commit": "2023-04-13T21:56:53Z",
             "owner": "ETeissonniere",
@@ -1030,6 +1080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493611725,
             "language": "Rust",
             "last_commit": "2026-02-17T15:41:51Z",
             "owner": "paritytech",
@@ -1044,6 +1095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300936624,
             "language": "TypeScript",
             "last_commit": "2021-04-30T03:51:52Z",
             "owner": "canontech",
@@ -1058,6 +1110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265310794,
             "language": "Rust",
             "last_commit": "2021-12-07T12:36:37Z",
             "owner": "clearloop",
@@ -1072,6 +1125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504046955,
             "language": "TypeScript",
             "last_commit": "2023-06-06T18:47:37Z",
             "owner": "Supercolony-net",
@@ -1086,6 +1140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244791122,
             "language": "JavaScript",
             "last_commit": "2023-01-06T05:00:54Z",
             "owner": "gantree-io",
@@ -1100,6 +1155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239140198,
             "language": "JavaScript",
             "last_commit": "2021-11-25T01:18:24Z",
             "owner": "shawntabrizi",
@@ -1114,6 +1170,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 353377501,
             "language": "TypeScript",
             "last_commit": "2022-10-26T08:50:03Z",
             "owner": "paritytech",
@@ -1128,6 +1185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487335116,
             "language": "JavaScript",
             "last_commit": "2022-09-03T12:02:24Z",
             "owner": "shawntabrizi",
@@ -1142,6 +1200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518503445,
             "language": "Rust",
             "last_commit": "2025-11-21T12:16:31Z",
             "owner": "paritytech",
@@ -1156,6 +1215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308081155,
             "language": "JavaScript",
             "last_commit": "2022-02-09T23:42:23Z",
             "owner": "shawntabrizi",
@@ -1170,6 +1230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599085701,
             "language": "TypeScript",
             "last_commit": "2024-09-13T10:56:52Z",
             "owner": "dappforce",
@@ -1184,6 +1245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267141829,
             "language": "HTML",
             "last_commit": "2022-10-25T17:34:18Z",
             "owner": "shawntabrizi",
@@ -1198,6 +1260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233068581,
             "language": "JavaScript",
             "last_commit": "2022-02-09T23:34:21Z",
             "owner": "shawntabrizi",
@@ -1212,6 +1275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234365865,
             "language": "JavaScript",
             "last_commit": "2023-01-05T05:15:51Z",
             "owner": "shawntabrizi",
@@ -1226,6 +1290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415125375,
             "language": "Rust",
             "last_commit": "2021-10-16T16:18:05Z",
             "owner": "arrudagates",
@@ -1240,6 +1305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 548393110,
             "language": "Rust",
             "last_commit": "2023-12-13T01:11:33Z",
             "owner": "uptest-sc",
@@ -1254,6 +1320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452280902,
             "language": "TypeScript",
             "last_commit": "2025-12-23T17:26:49Z",
             "owner": "kodadot",
@@ -1268,6 +1335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312046512,
             "language": "Python",
             "last_commit": "2024-06-30T14:13:45Z",
             "owner": "starkleytech",
@@ -1282,18 +1350,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 348261917,
             "language": "Rust",
             "last_commit": "2021-03-16T08:16:17Z",
             "owner": "patractlabs",
             "repo": "megaclite",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Dev Hub Utils",
-          "description": "Unofficial utilities for working with official Substrate Developer Hub resources.",
-          "children": []
         },
         {
           "node_type": "group",
@@ -1307,6 +1370,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 374926378,
                 "language": "TypeScript",
                 "last_commit": "2026-07-14T15:48:07Z",
                 "owner": "novasamatech",
@@ -1320,7 +1384,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1329,6 +1393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168006517,
             "language": "Go",
             "last_commit": "2026-08-10T18:05:35Z",
             "owner": "ChainSafe",
@@ -1343,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274868731,
             "language": "TypeScript",
             "last_commit": "2023-01-20T22:42:18Z",
             "owner": "LimeChain",
@@ -1354,7 +1420,7 @@
       "title": "Alternative Implementations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1363,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148650739,
             "language": "Rust",
             "last_commit": "2026-08-17T21:38:02Z",
             "owner": "paritytech",
@@ -1377,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69875468,
             "language": "Haskell",
             "last_commit": "2026-02-24T13:31:05Z",
             "owner": "airalab",
@@ -1391,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267804764,
             "language": "Go",
             "last_commit": "2026-08-03T04:29:21Z",
             "owner": "subscan-explorer",
@@ -1405,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261338457,
             "language": "Java",
             "last_commit": "2022-06-30T23:18:55Z",
             "owner": "splix",
@@ -1419,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177969798,
             "language": "Python",
             "last_commit": "2025-10-16T14:00:37Z",
             "owner": "JAMdotTech",
@@ -1433,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261099915,
             "language": "TypeScript",
             "last_commit": "2023-07-12T06:12:11Z",
             "owner": "LimeChain",
@@ -1447,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 228293276,
             "language": "Ruby",
             "last_commit": "2022-10-10T06:39:15Z",
             "owner": "itering",
@@ -1461,6 +1534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407277967,
             "language": "C",
             "last_commit": "2022-02-16T11:39:53Z",
             "owner": "MatthewDarnell",
@@ -1475,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421340061,
             "language": "C++",
             "last_commit": "2025-05-15T14:21:35Z",
             "owner": "qdrvm",
@@ -1489,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 378154190,
             "language": "Rust",
             "last_commit": "2024-01-17T17:18:49Z",
             "owner": "virto-network",
@@ -1508,6 +1584,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 111184073,
                 "language": "TypeScript",
                 "last_commit": "2026-07-22T12:27:11Z",
                 "owner": "polkadot-js",
@@ -1522,6 +1599,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 422716931,
                 "language": "TypeScript",
                 "last_commit": "2024-10-28T15:55:38Z",
                 "owner": "unstoppablejs",
@@ -1536,6 +1614,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 372548129,
                 "language": "TypeScript",
                 "last_commit": "2023-08-03T05:53:44Z",
                 "owner": "soramitsu",
@@ -1550,8 +1629,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:08:33.060Z",
+    "last_updated": "2026-08-19T12:52:22.550Z",
     "original_repository": "polkadot-developers/awesome-substrate",
+    "original_repository_id": 178537578,
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
     "enhanced_repository": "enhansome/enhansome-substrate",
     "enhanced_repository_description": null,
