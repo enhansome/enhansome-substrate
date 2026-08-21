@@ -121,15 +121,15 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,109 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
 * [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 488 | 🐛 90 | 🌐 Rust | 📅 2026-08-17 - Official Rust client.
-* [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 263 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
+* [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 264 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 46 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
-* [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 211 | 🐛 35 | 🌐 Go | 📅 2026-07-24 - SS58 and more, developed by Subscan.
+* [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-07-24 - SS58 and more, developed by Subscan.
 * [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) ⭐ 209 | 🐛 47 | 🌐 Go | 📅 2024-09-19 - Maintained by [Centrifuge](https://centrifuge.io/).
 * [`useInkathon`](https://github.com/scio-labs/use-inkathon) ⭐ 54 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-24 - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
 * [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) ⭐ 34 | 🐛 12 | 🌐 C# | 📅 2022-12-08 - Maintained by [Usetech](https://usetech.com/blockchain/).
 * [Subsocial JS SDK](https://github.com/dappforce/subsocial-js) ⭐ 29 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-31 - A JS SDK for developers to build web3 social apps on top of Subsocial.
 * [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) ⭐ 26 | 🐛 6 | 🌐 C# | 📅 2025-06-09 - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2022-11-21; Maintained by [Ajuna Network](https://ajuna.io/).
-* [`sube`](https://github.com/virto-network/sube) ⭐ 23 | 🐛 47 | 🌐 Rust | 📅 2026-07-30 - Lightweight Rust client library and CLI with support for type information.
+* [`sube`](https://github.com/virto-network/sube) ⭐ 24 | 🐛 47 | 🌐 Rust | 📅 2026-07-30 - Lightweight Rust client library and CLI with support for type information.
 * [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) ⭐ 18 | 🐛 12 | 🌐 C++ | 📅 2023-09-04 - Maintained by Usetech.
 * [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) ⭐ 18 | 🐛 7 | 🌐 Kotlin | 📅 2021-09-10 - Maintained by [Nodle.io](https://github.com/NodleCode).
 * [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2023-08-30 - Generate Go (de)serialization/client code from Substrate metadata.
@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 43 | 🌐 Python | 📅 2026-08-19 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 42 | 🌐 Python | 📅 2026-08-20 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
