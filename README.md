@@ -87,7 +87,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Templates
 
-* [Frontier](https://github.com/paritytech/frontier/tree/master/template) ⭐ 615 | 🐛 148 | 🌐 Rust | 📅 2026-08-10 - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
+* [Frontier](https://github.com/paritytech/frontier/tree/master/template) ⭐ 615 | 🐛 149 | 🌐 Rust | 📅 2026-08-10 - Fronter enabled EVM and Ethereum RPC compatible Substrate node, ready for hacking.
 * [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) ⚠️ Archived - Polkadot-JS API and [React](https://reactjs.org/) app to build front-ends for Substrate-based chains.
 * [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) ⭐ 74 | 🐛 0 | 🌐 Rust | 📅 2023-06-07 - A template for a Substrate node that includes staking and governance capabilities.
 * [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-10 - A template project to kickstart hacking on top of `@polkadot/api`.
@@ -109,9 +109,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Framework Extensions
 
-* [ink!](https://github.com/paritytech/ink) ⭐ 1,457 | 🐛 173 | 🌐 Rust | 📅 2026-03-25 - Rust smart contract language for Substrate chains.
+* [ink!](https://github.com/paritytech/ink) ⭐ 1,456 | 🐛 173 | 🌐 Rust | 📅 2026-03-25 - Rust smart contract language for Substrate chains.
 * [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
-* [Frontier](https://github.com/paritytech/frontier) ⭐ 615 | 🐛 148 | 🌐 Rust | 📅 2026-08-10 - End-to-end Ethereum emulation for Substrate chains.
+* [Frontier](https://github.com/paritytech/frontier) ⭐ 615 | 🐛 149 | 🌐 Rust | 📅 2026-08-10 - End-to-end Ethereum emulation for Substrate chains.
 * [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 77 | 🌐 Rust | 📅 2026-08-17 - A collection of tools for cross-chain communication.
 * [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
 * [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
