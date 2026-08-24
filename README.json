@@ -100,7 +100,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-stencil",
           "description": "A template for a Substrate node that includes staking and governance capabilities.",
           "children": [],
           "repo_info": {
@@ -313,7 +313,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "subxt",
           "description": "Official Rust client.",
           "children": [],
           "repo_info": {
@@ -388,7 +388,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "use-inkathon",
           "description": "Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.",
           "children": [],
           "repo_info": {
@@ -448,7 +448,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "virto-sdk",
           "description": "Lightweight Rust client library and CLI with support for type information.",
           "children": [],
           "repo_info": {
@@ -493,7 +493,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "go-substrate-gen",
           "description": "Generate Go (de)serialization/client code from Substrate metadata.",
           "children": [],
           "repo_info": {
@@ -670,7 +670,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "polkadot-launch",
           "description": "Simple CLI tool to launch a local Polkadot test network.",
           "children": [],
           "repo_info": {
@@ -730,7 +730,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-debug-kit",
           "description": "Tool to predict nominated proof-of-stake elections.",
           "children": [],
           "repo_info": {
@@ -775,7 +775,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "srtool",
           "description": "Docker image to deterministically build a runtime.",
           "children": [],
           "repo_info": {
@@ -805,7 +805,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "subalfred",
           "description": "An all-in-one Substrate development toolbox.",
           "children": [],
           "repo_info": {
@@ -820,7 +820,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "subwasm",
           "description": "CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.",
           "children": [],
           "repo_info": {
@@ -955,7 +955,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-js-utilities",
           "description": "A set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API; Also deployed as a website.",
           "children": [],
           "repo_info": {
@@ -970,7 +970,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "polkadot-scripts",
           "description": "A collection of scripts Parity uses to diagnose Polkadot/Kusama.",
           "children": [],
           "repo_info": {
@@ -985,7 +985,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "subsee",
           "description": "CLI to inspect metadata of a Substrate node as JSON.",
           "children": [],
           "repo_info": {
@@ -1000,7 +1000,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "polkadot-starship",
           "description": "Another tool to launch a local Polkadot test network, with emphasis on the ability to run big testnets.",
           "children": [],
           "repo_info": {
@@ -1015,7 +1015,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "srtool-cli",
           "description": "CLI frontend for the Docker image.",
           "children": [],
           "repo_info": {
@@ -1045,7 +1045,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "srtool-actions",
           "description": "GitHub actions to easily use the Docker image to build your own runtime.",
           "children": [],
           "repo_info": {
@@ -1075,7 +1075,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "scale-value",
           "description": "Analogous to but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic given type info from .",
           "children": [],
           "repo_info": {
@@ -1105,7 +1105,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "sup",
           "description": "Command line tool for generating or upgrading a Substrate node.",
           "children": [],
           "repo_info": {
@@ -1150,7 +1150,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-graph-benchmarks",
           "description": "Graph the benchmark output of FRAME pallets.",
           "children": [],
           "repo_info": {
@@ -1165,7 +1165,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "polkadot-runtime-prom-exporter",
           "description": "A Prometheus exporter for Polkadot runtime metrics (modifiable for Substrate use).",
           "children": [],
           "repo_info": {
@@ -1180,7 +1180,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-toml-lint",
           "description": "A toml parser and checker to avoid common errors in Substrate projects.",
           "children": [],
           "repo_info": {
@@ -1195,7 +1195,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "scale-decode",
           "description": "Decode SCALE bytes into arbitrary custom types by implementing a visitor trait.",
           "children": [],
           "repo_info": {
@@ -1210,7 +1210,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-balance-calculator",
           "description": "Breakdown the balances of your Substrate account.",
           "children": [],
           "repo_info": {
@@ -1240,7 +1240,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "polkadot-js-bundle",
           "description": "A standalone JS bundle that contains Polkadot{JS} libraries.",
           "children": [],
           "repo_info": {
@@ -1255,7 +1255,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-balance-graph",
           "description": "Create a graph of the token balance over time of a Substrate address.",
           "children": [],
           "repo_info": {
@@ -1270,7 +1270,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "substrate-society",
           "description": "A basic front-end for the FRAME Society pallet.",
           "children": [],
           "repo_info": {
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:21:49.243Z",
+    "last_updated": "2026-08-24T14:19:58.894Z",
     "original_repository": "polkadot-developers/awesome-substrate",
     "original_repository_id": 178537578,
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
