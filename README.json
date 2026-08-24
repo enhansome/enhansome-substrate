@@ -15,7 +15,7 @@
             "last_commit": "2026-03-19T15:16:40Z",
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1185
+            "stars": 1184
           }
         },
         {
@@ -284,7 +284,7 @@
             "archived": false,
             "id": 237876143,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:15:53Z",
+            "last_commit": "2026-08-24T01:14:28Z",
             "owner": "paritytech",
             "repo": "parity-bridges-common",
             "stars": 280
@@ -320,7 +320,7 @@
             "archived": false,
             "id": 200629301,
             "language": "Rust",
-            "last_commit": "2026-08-17T11:34:21Z",
+            "last_commit": "2026-08-24T00:43:48Z",
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 489
@@ -554,7 +554,7 @@
             "last_commit": "2026-08-07T10:45:42Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-ios",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:09:30.376Z",
+    "last_updated": "2026-08-24T04:21:49.243Z",
     "original_repository": "polkadot-developers/awesome-substrate",
     "original_repository_id": 178537578,
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
