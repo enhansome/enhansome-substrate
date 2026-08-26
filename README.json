@@ -146,7 +146,7 @@
             "last_commit": "2023-09-25T20:31:30Z",
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8397
+            "stars": 8399
           }
         },
         {
@@ -902,7 +902,7 @@
             "archived": false,
             "id": 421781829,
             "language": "Python",
-            "last_commit": "2026-08-24T18:53:48Z",
+            "last_commit": "2026-08-26T00:56:25Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45
@@ -1431,7 +1431,7 @@
             "archived": false,
             "id": 148650739,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:38:02Z",
+            "last_commit": "2026-08-25T21:11:28Z",
             "owner": "paritytech",
             "repo": "parity-scale-codec",
             "stars": 286
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:13.740Z",
+    "last_updated": "2026-08-26T04:10:51.237Z",
     "original_repository": "polkadot-developers/awesome-substrate",
     "original_repository_id": 178537578,
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",

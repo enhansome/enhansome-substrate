@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 42 | 🌐 Python | 📅 2026-08-24 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 42 | 🌐 Python | 📅 2026-08-26 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -227,7 +227,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## SCALE Codec
 
-* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 286 | 🐛 68 | 🌐 Rust | 📅 2026-08-17 - Reference implementation written in Rust.
+* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 286 | 🐛 67 | 🌐 Rust | 📅 2026-08-25 - Reference implementation written in Rust.
 * [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) ⭐ 198 | 🐛 9 | 🌐 Haskell | 📅 2026-02-24 - Maintained by [Robonomics Network](https://robonomics.network/).
 * [Go](https://github.com/itering/scale.go) ⭐ 69 | 🐛 5 | 🌐 Go | 📅 2026-08-03 - Maintained by [Itering](https://www.itering.com/).
 * [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) ⭐ 64 | 🐛 34 | 🌐 Java | 📅 2022-06-30 - Maintained by [Emerald](https://emerald.cash/).
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
