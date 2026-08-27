@@ -551,10 +551,10 @@
             "archived": false,
             "id": 420012497,
             "language": "Swift",
-            "last_commit": "2026-08-07T10:45:42Z",
+            "last_commit": "2026-08-27T14:27:55Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-ios",
-            "stars": 31
+            "stars": 30
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2026-08-27T11:56:09Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-android",
-            "stars": 24
+            "stars": 23
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-07-31T16:13:21Z",
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1023
+            "stars": 1022
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-08-27T09:48:21Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
-            "stars": 45
+            "stars": 44
           }
         },
         {
@@ -1629,7 +1629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:58.686Z",
+    "last_updated": "2026-08-27T14:29:12.459Z",
     "original_repository_info": {
       "archived": false,
       "id": 178537578,
