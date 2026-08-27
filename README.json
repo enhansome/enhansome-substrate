@@ -242,7 +242,7 @@
             "last_commit": "2026-03-25T22:17:43Z",
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1456
+            "stars": 1455
           }
         },
         {
@@ -566,7 +566,7 @@
             "archived": false,
             "id": 429839517,
             "language": "Kotlin",
-            "last_commit": "2026-07-17T12:16:53Z",
+            "last_commit": "2026-08-27T11:56:09Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-android",
             "stars": 24
@@ -902,7 +902,7 @@
             "archived": false,
             "id": 421781829,
             "language": "Python",
-            "last_commit": "2026-08-26T00:56:25Z",
+            "last_commit": "2026-08-27T09:48:21Z",
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45
@@ -1629,9 +1629,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:10:51.237Z",
-    "original_repository": "polkadot-developers/awesome-substrate",
-    "original_repository_id": 178537578,
+    "last_updated": "2026-08-27T12:03:58.686Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 178537578,
+      "language": null,
+      "last_commit": "2024-04-20T18:36:20Z",
+      "owner": "polkadot-developers",
+      "repo": "awesome-substrate",
+      "stars": 775
+    },
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
     "enhanced_repository": "enhansome/enhansome-substrate",
     "enhanced_repository_description": null,
