@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,186 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,186 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -127,9 +127,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) ⭐ 209 | 🐛 47 | 🌐 Go | 📅 2024-09-19 - Maintained by [Centrifuge](https://centrifuge.io/).
 * [`useInkathon`](https://github.com/scio-labs/use-inkathon) ⭐ 54 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-24 - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
 * [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) ⭐ 34 | 🐛 12 | 🌐 C# | 📅 2022-12-08 - Maintained by [Usetech](https://usetech.com/blockchain/).
-* [Subsocial JS SDK](https://github.com/dappforce/subsocial-js) ⭐ 29 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-31 - A JS SDK for developers to build web3 social apps on top of Subsocial.
+* [Subsocial JS SDK](https://github.com/dappforce/subsocial-js) ⭐ 28 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-31 - A JS SDK for developers to build web3 social apps on top of Subsocial.
 * [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) ⭐ 26 | 🐛 6 | 🌐 C# | 📅 2025-06-09 - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2022-11-21; Maintained by [Ajuna Network](https://ajuna.io/).
-* [`sube`](https://github.com/virto-network/sube) ⭐ 24 | 🐛 47 | 🌐 Rust | 📅 2026-07-30 - Lightweight Rust client library and CLI with support for type information.
+* [`sube`](https://github.com/virto-network/sube) ⭐ 24 | 🐛 47 | 🌐 Rust | 📅 2026-08-28 - Lightweight Rust client library and CLI with support for type information.
 * [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) ⭐ 18 | 🐛 12 | 🌐 C++ | 📅 2023-09-04 - Maintained by Usetech.
 * [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) ⭐ 18 | 🐛 7 | 🌐 Kotlin | 📅 2021-09-10 - Maintained by [Nodle.io](https://github.com/NodleCode).
 * [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2023-08-30 - Generate Go (de)serialization/client code from Substrate metadata.
@@ -138,8 +138,8 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Mobile
 
-* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 30 | 🐛 7 | 🌐 Swift | 📅 2026-08-27 - Substrate SDK and tools for iOS.
-* [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 23 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-27 - Substrate SDK and tools for Android.
+* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 30 | 🐛 6 | 🌐 Swift | 📅 2026-08-28 - Substrate SDK and tools for iOS.
+* [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 23 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-27 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
 * [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) ⭐ 20 | 🐛 5 | 🌐 Kotlin | 📅 2026-03-16 - Android Substrate tools.
@@ -148,7 +148,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,022 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
+* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,022 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
 * [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) ⭐ 464 | 🐛 43 | 🌐 TypeScript | 📅 2023-02-04 - Simple CLI tool to launch a local Polkadot test network.
 * [Sidecar](https://github.com/paritytech/substrate-api-sidecar) ⭐ 268 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-02 - REST service that runs alongside Substrate nodes.
 * [Archive](https://github.com/paritytech/substrate-archive) ⭐ 199 | 🐛 61 | 🌐 Rust | 📅 2023-03-06 - Indexing engine for Substrate chains.
@@ -156,7 +156,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election) ⚠️ Archived - Tool to predict nominated proof-of-stake elections.
 * [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) ⚠️ Archived - A collection of tools and libraries for debugging Substrate-based chains.
 * [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) ⭐ 82 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11 - A script to parse and output staking rewards for a given Kusama or Polkadot address and cross-reference them with daily price data.
-* [`srtool`](https://github.com/paritytech/srtool) ⭐ 76 | 🐛 5 | 🌐 Shell | 📅 2026-06-17 - Docker image to deterministically build a runtime.
+* [`srtool`](https://github.com/paritytech/srtool) ⭐ 76 | 🐛 6 | 🌐 Shell | 📅 2026-06-17 - Docker image to deterministically build a runtime.
 * [Europa](https://github.com/patractlabs/europa) ⭐ 76 | 🐛 3 | 🌐 Rust | 📅 2022-06-18 - A sandbox for the Substrate runtime execution environment.
 * [`subalfred`](https://github.com/hack-ink/subalfred) ⚠️ Archived - An all-in-one Substrate development toolbox.
 * [`subwasm`](https://github.com/chevdor/subwasm) ⭐ 70 | 🐛 13 | 🌐 WebAssembly | 📅 2025-03-13 - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
@@ -228,7 +228,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## SCALE Codec
 
 * [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 286 | 🐛 67 | 🌐 Rust | 📅 2026-08-25 - Reference implementation written in Rust.
-* [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) ⭐ 198 | 🐛 9 | 🌐 Haskell | 📅 2026-02-24 - Maintained by [Robonomics Network](https://robonomics.network/).
+* [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) ⭐ 198 | 🐛 9 | 🌐 Haskell | 📅 2026-08-27 - Maintained by [Robonomics Network](https://robonomics.network/).
 * [Go](https://github.com/itering/scale.go) ⭐ 69 | 🐛 5 | 🌐 Go | 📅 2026-08-03 - Maintained by [Itering](https://www.itering.com/).
 * [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) ⭐ 64 | 🐛 34 | 🌐 Java | 📅 2022-06-30 - Maintained by [Emerald](https://emerald.cash/).
 * [Python](https://github.com/polkascan/py-scale-codec) ⭐ 59 | 🐛 16 | 🌐 Python | 📅 2025-10-16 - Maintained by Polkascan Foundation.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

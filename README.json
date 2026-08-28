@@ -16,7 +16,8 @@
             "owner": "w3f",
             "repo": "Grants-Program",
             "stars": 1186
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "group",
@@ -36,7 +37,8 @@
                 "owner": "polkadot-io",
                 "repo": "polkadot-white-paper",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T15:35:19.229Z"
             },
             {
               "node_type": "group",
@@ -56,7 +58,8 @@
                     "owner": "AmadeusGB",
                     "repo": "Overview-of-Polkadot",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:35:19.229Z"
                 }
               ]
             }
@@ -81,7 +84,8 @@
             "owner": "polkadot-evm",
             "repo": "frontier",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "jimmychu0807",
             "repo": "substrate-front-end-template",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "kaichaosun",
             "repo": "substrate-stencil",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "kianenigma",
             "repo": "polkadot-js-api-ts-template",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "Templates"
@@ -147,7 +154,8 @@
             "owner": "paritytech",
             "repo": "substrate",
             "stars": 8399
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -162,7 +170,8 @@
             "owner": "open-web3-stack",
             "repo": "open-runtime-module-library",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -177,7 +186,8 @@
             "owner": "smartcontractkit",
             "repo": "chainlink-polkadot",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -192,7 +202,8 @@
             "owner": "rmrk-team",
             "repo": "rmrk-substrate",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "libreamartists",
             "repo": "sunshine-keybase",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -222,7 +234,8 @@
             "owner": "libreamartists",
             "repo": "sunshine-keybase",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "FRAME Pallets"
@@ -243,7 +256,8 @@
             "owner": "use-ink",
             "repo": "ink",
             "stars": 1455
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -258,7 +272,8 @@
             "owner": "paritytech",
             "repo": "cumulus",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -273,7 +288,8 @@
             "owner": "polkadot-evm",
             "repo": "frontier",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -288,7 +304,8 @@
             "owner": "paritytech",
             "repo": "parity-bridges-common",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "Framework Extensions"
@@ -309,7 +326,8 @@
             "owner": "polkadot-js",
             "repo": "api",
             "stars": 1110
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -324,7 +342,8 @@
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -339,7 +358,8 @@
             "owner": "scs",
             "repo": "substrate-api-client",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -354,7 +374,8 @@
             "owner": "JAMdotTech",
             "repo": "py-polkadot-sdk",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -369,7 +390,8 @@
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -384,7 +406,8 @@
             "owner": "centrifuge",
             "repo": "go-substrate-rpc-client",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -399,7 +422,8 @@
             "owner": "scio-labs",
             "repo": "use-inkathon",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -414,7 +438,8 @@
             "owner": "usetech-llc",
             "repo": "polkadot_api_dotnet",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -428,8 +453,9 @@
             "last_commit": "2024-08-31T01:44:42Z",
             "owner": "dappforce",
             "repo": "subsocial-js",
-            "stars": 29
-          }
+            "stars": 28
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -444,7 +470,8 @@
             "owner": "SubstrateGaming",
             "repo": "Substrate.NET.API",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -455,11 +482,12 @@
             "archived": false,
             "id": 343226536,
             "language": "Rust",
-            "last_commit": "2026-07-30T17:58:32Z",
+            "last_commit": "2026-08-28T14:09:14Z",
             "owner": "virto-network",
             "repo": "virto-sdk",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -474,7 +502,8 @@
             "owner": "usetech-llc",
             "repo": "polkadot_api_cpp",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -489,7 +518,8 @@
             "owner": "NodleCode",
             "repo": "substrate-client-kotlin",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -504,7 +534,8 @@
             "owner": "Aphoh",
             "repo": "go-substrate-gen",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -519,7 +550,8 @@
             "owner": "kodadot",
             "repo": "packages",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -534,7 +566,8 @@
             "owner": "ajuna-network",
             "repo": "Ajuna.SDK",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "Client Libraries"
@@ -551,11 +584,12 @@
             "archived": false,
             "id": 420012497,
             "language": "Swift",
-            "last_commit": "2026-08-27T14:27:55Z",
+            "last_commit": "2026-08-28T04:21:19Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-ios",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -566,11 +600,12 @@
             "archived": false,
             "id": 429839517,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T11:56:09Z",
+            "last_commit": "2026-08-27T15:36:11Z",
             "owner": "novasamatech",
             "repo": "substrate-sdk-android",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -585,7 +620,8 @@
             "owner": "paritytech",
             "repo": "react-native-substrate-sign",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -600,7 +636,8 @@
             "owner": "Pocket4D",
             "repo": "Polkadot-Dart",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -615,7 +652,8 @@
             "owner": "soramitsu",
             "repo": "fearless-utils-Android",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -630,7 +668,8 @@
             "owner": "polkawallet-io",
             "repo": "sdk",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -645,7 +684,8 @@
             "owner": "soramitsu",
             "repo": "fearless-utils-iOS",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "Mobile"
@@ -666,7 +706,8 @@
             "owner": "polkadot-js",
             "repo": "extension",
             "stars": 1022
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -681,7 +722,8 @@
             "owner": "paritytech",
             "repo": "polkadot-launch",
             "stars": 464
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -696,7 +738,8 @@
             "owner": "paritytech",
             "repo": "substrate-api-sidecar",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -711,7 +754,8 @@
             "owner": "paritytech",
             "repo": "substrate-archive",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -726,7 +770,8 @@
             "owner": "maxsam4",
             "repo": "fork-off-substrate",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -741,7 +786,8 @@
             "owner": "paritytech",
             "repo": "substrate-debug-kit",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -756,7 +802,8 @@
             "owner": "paritytech",
             "repo": "substrate-debug-kit",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -771,7 +818,8 @@
             "owner": "jonasW3F",
             "repo": "staking-rewards-collector",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -786,7 +834,8 @@
             "owner": "paritytech",
             "repo": "srtool",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -801,7 +850,8 @@
             "owner": "patractlabs",
             "repo": "europa",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -816,7 +866,8 @@
             "owner": "hack-ink",
             "repo": "subalfred",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -831,7 +882,8 @@
             "owner": "chevdor",
             "repo": "subwasm",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -846,7 +898,8 @@
             "owner": "patractlabs",
             "repo": "redspot",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -861,7 +914,8 @@
             "owner": "paritytech",
             "repo": "txwrapper",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -876,7 +930,8 @@
             "owner": "patractlabs",
             "repo": "jupiter",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -891,7 +946,8 @@
             "owner": "Joystream",
             "repo": "hydra",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -906,7 +962,8 @@
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -921,7 +978,8 @@
             "owner": "SimplyStaking",
             "repo": "panic_polkadot",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -936,7 +994,8 @@
             "owner": "halva-suite",
             "repo": "halva",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -951,7 +1010,8 @@
             "owner": "playzero",
             "repo": "substrate-graph",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -966,7 +1026,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-js-utilities",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -981,7 +1042,8 @@
             "owner": "paritytech",
             "repo": "polkadot-scripts",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -996,7 +1058,8 @@
             "owner": "ascjones",
             "repo": "subsee",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1011,7 +1074,8 @@
             "owner": "koute",
             "repo": "polkadot-starship",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1026,7 +1090,8 @@
             "owner": "chevdor",
             "repo": "srtool-cli",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1041,7 +1106,8 @@
             "owner": "centrifuge",
             "repo": "fudge",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1056,7 +1122,8 @@
             "owner": "chevdor",
             "repo": "srtool-actions",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1071,7 +1138,8 @@
             "owner": "ETeissonniere",
             "repo": "substrate-nodeops",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1086,7 +1154,8 @@
             "owner": "paritytech",
             "repo": "scale-value",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1101,7 +1170,8 @@
             "owner": "canontech",
             "repo": "proxy-hot-wallet",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1116,7 +1186,8 @@
             "owner": "clearloop",
             "repo": "sup",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1131,7 +1202,8 @@
             "owner": "Supercolony-net",
             "repo": "typechain-polkadot",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1146,7 +1218,8 @@
             "owner": "gantree-io",
             "repo": "gantree-lib-nodejs",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1161,7 +1234,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-graph-benchmarks",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1176,7 +1250,8 @@
             "owner": "paritytech",
             "repo": "polkadot-runtime-prom-exporter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1191,7 +1266,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-toml-lint",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1206,7 +1282,8 @@
             "owner": "paritytech",
             "repo": "scale-decode",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1221,7 +1298,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-balance-calculator",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1236,7 +1314,8 @@
             "owner": "dappforce",
             "repo": "subid",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1251,7 +1330,8 @@
             "owner": "shawntabrizi",
             "repo": "polkadot-js-bundle",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1266,7 +1346,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-balance-graph",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1281,7 +1362,8 @@
             "owner": "shawntabrizi",
             "repo": "substrate-society",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1296,7 +1378,8 @@
             "owner": "arrudagates",
             "repo": "substate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1311,7 +1394,8 @@
             "owner": "uptest-sc",
             "repo": "uptest",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1326,7 +1410,8 @@
             "owner": "kodadot",
             "repo": "packages",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1341,7 +1426,8 @@
             "owner": "starkleytech",
             "repo": "substrate-faucet",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1356,7 +1442,8 @@
             "owner": "patractlabs",
             "repo": "megaclite",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "group",
@@ -1376,7 +1463,8 @@
                 "owner": "novasamatech",
                 "repo": "subquery-history",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:35:19.229Z"
             }
           ]
         }
@@ -1399,7 +1487,8 @@
             "owner": "ChainSafe",
             "repo": "gossamer",
             "stars": 454
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1503,8 @@
             "owner": "LimeChain",
             "repo": "as-substrate-runtime",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         }
       ],
       "title": "Alternative Implementations"
@@ -1435,7 +1525,8 @@
             "owner": "paritytech",
             "repo": "parity-scale-codec",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1446,11 +1537,12 @@
             "archived": false,
             "id": 69875468,
             "language": "Haskell",
-            "last_commit": "2026-02-24T13:31:05Z",
+            "last_commit": "2026-08-27T17:58:38Z",
             "owner": "airalab",
             "repo": "hs-web3",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1557,8 @@
             "owner": "subscan-explorer",
             "repo": "scale.go",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1573,8 @@
             "owner": "splix",
             "repo": "polkaj",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1495,7 +1589,8 @@
             "owner": "JAMdotTech",
             "repo": "py-scale-codec",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1605,8 @@
             "owner": "LimeChain",
             "repo": "as-scale-codec",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1621,8 @@
             "owner": "itering",
             "repo": "scale.rb",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1637,8 @@
             "owner": "MatthewDarnell",
             "repo": "cScale",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1653,8 @@
             "owner": "qdrvm",
             "repo": "scale-codec-cpp",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1669,8 @@
             "owner": "virto-network",
             "repo": "scales",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
         },
         {
           "node_type": "group",
@@ -1590,7 +1690,8 @@
                 "owner": "polkadot-js",
                 "repo": "api",
                 "stars": 1110
-              }
+              },
+              "first_seen": "2026-08-28T15:35:19.229Z"
             },
             {
               "node_type": "item",
@@ -1605,7 +1706,8 @@
                 "owner": "unstoppablejs",
                 "repo": "unstoppablejs",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:35:19.229Z"
             },
             {
               "node_type": "item",
@@ -1620,7 +1722,8 @@
                 "owner": "soramitsu",
                 "repo": "scale-codec-js-library",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:35:19.229Z"
             }
           ]
         }
@@ -1629,7 +1732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:29:12.459Z",
+    "last_updated": "2026-08-28T15:35:19.229Z",
     "original_repository_info": {
       "archived": false,
       "id": 178537578,
