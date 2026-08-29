@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web3 Foundation Grants Program",
+            "homepage": "https://grants.web3.foundation/",
             "id": 223565044,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-19T15:16:40Z",
+            "open_issues": 4,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1186
+            "stars": 1186,
+            "topics": [
+              "blockchain",
+              "kusama",
+              "polkadot",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -31,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The technical vision paper for Polkadot, a heterogeneous extensible multi-chain.",
+                "homepage": null,
                 "id": 73687395,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2020-05-13T10:58:01Z",
+                "open_issues": 5,
                 "owner": "polkadot-io",
                 "repo": "polkadot-white-paper",
-                "stars": 191
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:35:19.229Z"
             },
@@ -52,12 +67,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "旨在为波卡生态提供深度翻译内容",
+                    "homepage": null,
                     "id": 377148607,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-09-01T03:23:01Z",
+                    "open_issues": 0,
                     "owner": "AmadeusGB",
                     "repo": "Overview-of-Polkadot",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:35:19.229Z"
                 }
@@ -78,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum and EVM compatibility layer for Polkadot and Substrate.",
+            "homepage": "https://polkadot-evm.github.io/frontier/",
             "id": 156708951,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T23:21:11Z",
+            "open_issues": 152,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 615
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -94,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Polkadot.js API + React based template for building Substrate Front Ends",
+            "homepage": null,
             "id": 202555590,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2025-02-06T10:36:47Z",
+            "open_issues": 19,
             "owner": "jimmychu0807",
             "repo": "substrate-front-end-template",
-            "stars": 320
+            "stars": 320,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -110,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for kick starting a Substrate based PoS chain.",
+            "homepage": null,
             "id": 276259339,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-07T10:11:59Z",
+            "open_issues": 0,
             "owner": "kaichaosun",
             "repo": "substrate-stencil",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -126,12 +161,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template project to kickstart hacking on top of `@polkadot/api`",
+            "homepage": null,
             "id": 367914489,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2024-06-10T19:09:19Z",
+            "open_issues": 2,
             "owner": "kianenigma",
             "repo": "polkadot-js-api-ts-template",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "polkadot",
+              "polkadot-js",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -148,12 +192,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Substrate: The platform for blockchain innovators",
+            "homepage": null,
             "id": 109872620,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-25T20:31:30Z",
+            "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8399
+            "stars": 8399,
+            "topics": [
+              "blockchain",
+              "client",
+              "node",
+              "parity",
+              "polkadot",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -164,12 +220,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substrate Open Runtime Module Library",
+            "homepage": null,
             "id": 218390670,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-17T21:28:59Z",
+            "open_issues": 59,
             "owner": "open-web3-stack",
             "repo": "open-runtime-module-library",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -180,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 227884596,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-06T19:50:58Z",
+            "open_issues": 30,
             "owner": "smartcontractkit",
             "repo": "chainlink-polkadot",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -196,12 +265,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP] RMRK Substrate pallets",
+            "homepage": "https://rmrk.app",
             "id": 435683716,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-06T12:11:08Z",
+            "open_issues": 20,
             "owner": "rmrk-team",
             "repo": "rmrk-substrate",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "blockchain",
+              "polkadot",
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -212,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Keybase Local Key Security implementation, using Ipfs-Embed + Substrate",
+            "homepage": null,
             "id": 268377110,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2020-10-21T04:01:52Z",
+            "open_issues": 11,
             "owner": "libreamartists",
             "repo": "sunshine-keybase",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -228,12 +312,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Keybase Local Key Security implementation, using Ipfs-Embed + Substrate",
+            "homepage": null,
             "id": 268377110,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2020-10-21T04:01:52Z",
+            "open_issues": 11,
             "owner": "libreamartists",
             "repo": "sunshine-keybase",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -250,28 +339,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polkadot's ink! to write smart contracts.",
+            "homepage": "https://use.ink",
             "id": 161224066,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-25T22:17:43Z",
+            "open_issues": 173,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1455
-          },
-          "first_seen": "2026-08-28T15:35:19.229Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cumulus",
-          "description": "A set of tools for writing Substrate-based Polkadot parachains.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 165911534,
-            "language": "Rust",
-            "last_commit": "2023-11-15T12:07:40Z",
-            "owner": "paritytech",
-            "repo": "cumulus",
-            "stars": 615
+            "stars": 1455,
+            "topics": [
+              "blockchain",
+              "domain-specific-language",
+              "kusama",
+              "polkadot",
+              "rust",
+              "smart-contracts",
+              "substrate",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -282,12 +370,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum and EVM compatibility layer for Polkadot and Substrate.",
+            "homepage": "https://polkadot-evm.github.io/frontier/",
             "id": 156708951,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T23:21:11Z",
+            "open_issues": 152,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 615
+            "stars": 616,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cumulus",
+          "description": "A set of tools for writing Substrate-based Polkadot parachains.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Write Parachains on Substrate",
+            "homepage": null,
+            "id": 165911534,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2023-11-15T12:07:40Z",
+            "open_issues": 207,
+            "owner": "paritytech",
+            "repo": "cumulus",
+            "stars": 615,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -298,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Useful Bridge Building Tools 🏗️",
+            "homepage": null,
             "id": 237876143,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T01:14:28Z",
+            "open_issues": 77,
             "owner": "paritytech",
             "repo": "parity-bridges-common",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -320,12 +439,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promise and RxJS APIs around Polkadot and Substrate based chains via RPC calls. It is dynamically generated based on what the Substrate runtime provides in terms of metadata.",
+            "homepage": null,
             "id": 111184073,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T12:27:11Z",
+            "open_issues": 43,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1110
+            "stars": 1110,
+            "topics": [
+              "api",
+              "blockchain",
+              "jsonrpc",
+              "polkadot",
+              "polkadot-js",
+              "substrate",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -336,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interact with Substrate based nodes in Rust or WebAssembly",
+            "homepage": null,
             "id": 200629301,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T00:43:48Z",
+            "open_issues": 91,
             "owner": "paritytech",
             "repo": "subxt",
-            "stars": 489
+            "stars": 489,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -352,12 +489,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for connecting to substrate API over WebSockets",
+            "homepage": null,
             "id": 181680099,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T06:58:04Z",
+            "open_issues": 47,
             "owner": "scs",
             "repo": "substrate-api-client",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -368,12 +512,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Polkadot SDK",
+            "homepage": "https://jamdottech.github.io/py-polkadot-sdk/",
             "id": 180998078,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T13:18:49Z",
+            "open_issues": 46,
             "owner": "JAMdotTech",
             "repo": "py-polkadot-sdk",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "blockchain",
+              "client",
+              "interface",
+              "polkadot",
+              "polkascan",
+              "python",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -384,12 +541,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polkadot Substrate Explorer Subscan",
+            "homepage": "https://www.subscan.io",
             "id": 211015875,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-24T17:46:28Z",
+            "open_issues": 35,
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "blockchain",
+              "blockchain-explorer",
+              "explorer",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -400,12 +567,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substrate RPC client for go aka GSRPC",
+            "homepage": null,
             "id": 190606637,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-19T13:10:16Z",
+            "open_issues": 47,
             "owner": "centrifuge",
             "repo": "go-substrate-rpc-client",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "blockchain",
+              "golang",
+              "rpc",
+              "scale-codec",
+              "substrate",
+              "substrate-rpc-client"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -416,12 +595,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesafe React hooks and utility functions that simplify the process of working with Substrate-based networks and ink! smart contracts.",
+            "homepage": "https://inkathon.xyz",
             "id": 587341753,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-24T07:12:20Z",
+            "open_issues": 12,
             "owner": "scio-labs",
             "repo": "use-inkathon",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "blockchain",
+              "hooks",
+              "ink",
+              "javascript",
+              "polkadot",
+              "polkadot-blockchain",
+              "polkadot-js",
+              "polkadot-js-api",
+              "polkadot-network",
+              "react",
+              "react-hook",
+              "react-hooks",
+              "reactjs",
+              "rust",
+              "smart-contract",
+              "smart-contracts",
+              "substrate",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -432,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# API for Polkadot",
+            "homepage": null,
             "id": 203977169,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-08T06:10:14Z",
+            "open_issues": 12,
             "owner": "usetech-llc",
             "repo": "polkadot_api_dotnet",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -448,12 +657,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript SDK for Subsocial blockchain.",
+            "homepage": "https://docs.subsocial.network/docs/develop",
             "id": 243091124,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-31T01:44:42Z",
+            "open_issues": 7,
             "owner": "dappforce",
             "repo": "subsocial-js",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "dappforce",
+              "decentralized-communities",
+              "javascript-libs",
+              "kusama",
+              "kusama-network",
+              "npm",
+              "polkadot",
+              "polkadot-js",
+              "polkadot-network",
+              "subsocial",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -464,12 +690,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substrate .NET API Core for substrate-based nodes",
+            "homepage": "https://github.com/SubstrateGaming",
             "id": 415349794,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-09T08:53:12Z",
+            "open_issues": 6,
             "owner": "SubstrateGaming",
             "repo": "Substrate.NET.API",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "api",
+              "csharp",
+              "dotnet",
+              "gaming",
+              "polkadot",
+              "rpc",
+              "rust",
+              "substrate",
+              "unity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -480,12 +722,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virto toolset to build simple to use decentralized applications",
+            "homepage": null,
             "id": 343226536,
             "language": "Rust",
-            "last_commit": "2026-08-28T14:09:14Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T22:47:05Z",
+            "open_issues": 47,
             "owner": "virto-network",
             "repo": "virto-sdk",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "blockchain",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -496,12 +746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "С++ API for Polkadot. ",
+            "homepage": null,
             "id": 189715716,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-04T14:12:00Z",
+            "open_issues": 12,
             "owner": "usetech-llc",
             "repo": "polkadot_api_cpp",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -512,12 +767,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substrate RPC-client implementation made in pure Kotlin. ",
+            "homepage": null,
             "id": 306563705,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-10T12:03:58Z",
+            "open_issues": 7,
             "owner": "NodleCode",
             "repo": "substrate-client-kotlin",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "android",
+              "kotlin",
+              "parity-substrate",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -528,12 +793,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://github.com/Aphoh/go-substrate-gen",
+            "homepage": null,
             "id": 476874266,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-08-30T04:23:44Z",
+            "open_issues": 3,
             "owner": "Aphoh",
             "repo": "go-substrate-gen",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "golang",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -544,12 +817,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepository of npm packages we use in our projects.",
+            "homepage": null,
             "id": 452280902,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-23T17:26:49Z",
+            "open_issues": 59,
             "owner": "kodadot",
             "repo": "packages",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "graphql",
+              "hacktoberfest",
+              "kusama",
+              "npm",
+              "polkadot",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -560,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ajuna SDK Toolchain",
+            "homepage": null,
             "id": 619111865,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-03-26T09:56:33Z",
+            "open_issues": 0,
             "owner": "ajuna-network",
             "repo": "Ajuna.SDK",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -582,12 +872,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native iOS SDK for developing client apps for Substrate-based networks",
+            "homepage": "https://novawallet.io",
             "id": 420012497,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:21:19Z",
+            "open_issues": 6,
             "owner": "novasamatech",
             "repo": "substrate-sdk-ios",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "blockchain",
+              "ios",
+              "kusama",
+              "polkadot",
+              "substrate",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -598,12 +900,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Android SDK for developing client apps for Substrate-based networks",
+            "homepage": "https://novawallet.io",
             "id": 429839517,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:36:11Z",
+            "open_issues": 3,
             "owner": "novasamatech",
             "repo": "substrate-sdk-android",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "android",
+              "blockchain",
+              "kotlin",
+              "kusama",
+              "polkadot",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -614,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This React Native library packages practical crypto function written in Rust for Substrate, Polkadot and Ethereum. ",
+            "homepage": null,
             "id": 276053202,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-14T09:57:12Z",
+            "open_issues": 1,
             "owner": "paritytech",
             "repo": "react-native-substrate-sign",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -630,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Dart-lang SDK for Polkadot/Substrate client",
+            "homepage": null,
             "id": 305577623,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-22T14:28:09Z",
+            "open_issues": 2,
             "owner": "Pocket4D",
             "repo": "Polkadot-Dart",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -646,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fearless-utils-Android",
+            "homepage": null,
             "id": 278060389,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T14:12:20Z",
+            "open_issues": 5,
             "owner": "soramitsu",
             "repo": "fearless-utils-Android",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -662,12 +991,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "polkawallet SDK for integrating substrate-based blockchain as a plugin.",
+            "homepage": null,
             "id": 288364850,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-30T14:36:15Z",
+            "open_issues": 8,
             "owner": "polkawallet-io",
             "repo": "sdk",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -678,12 +1012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fearless-utils-iOS",
+            "homepage": null,
             "id": 278060379,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-15T09:21:34Z",
+            "open_issues": 3,
             "owner": "soramitsu",
             "repo": "fearless-utils-iOS",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -700,12 +1039,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extensions for dapps.",
+            "homepage": null,
             "id": 187620157,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T16:13:21Z",
+            "open_issues": 53,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1022
+            "stars": 1022,
+            "topics": [
+              "blockchain",
+              "extension",
+              "polkadot",
+              "polkadot-js",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -716,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple CLI tool to launch a local Polkadot test network",
+            "homepage": null,
             "id": 292541678,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T03:16:40Z",
+            "open_issues": 43,
             "owner": "paritytech",
             "repo": "polkadot-launch",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -732,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REST service that makes it easy to interact with blockchain nodes built using Substrate's FRAME framework.",
+            "homepage": "https://paritytech.github.io/substrate-api-sidecar/dist/",
             "id": 224672691,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-02T06:58:11Z",
+            "open_issues": 110,
             "owner": "paritytech",
             "repo": "substrate-api-sidecar",
-            "stars": 268
+            "stars": 268,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -748,12 +1108,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain Indexing Engine",
+            "homepage": null,
             "id": 205807439,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-06T23:07:15Z",
+            "open_issues": 61,
             "owner": "paritytech",
             "repo": "substrate-archive",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "blockchain",
+              "indexing",
+              "polkadot",
+              "postgres",
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -764,12 +1136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This script allows bootstrapping a new substrate chain with the current state of a live chain",
+            "homepage": null,
             "id": 280818534,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-18T08:19:00Z",
+            "open_issues": 9,
             "owner": "maxsam4",
             "repo": "fork-off-substrate",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -780,12 +1157,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of debug tools, scripts and libraries on top of substrate. ",
+            "homepage": null,
             "id": 212818473,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T16:11:01Z",
+            "open_issues": 5,
             "owner": "paritytech",
             "repo": "substrate-debug-kit",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "kusama",
+              "polkadot",
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -796,12 +1183,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of debug tools, scripts and libraries on top of substrate. ",
+            "homepage": null,
             "id": 212818473,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T16:11:01Z",
+            "open_issues": 5,
             "owner": "paritytech",
             "repo": "substrate-debug-kit",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "kusama",
+              "polkadot",
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -812,12 +1209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 310317188,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T09:53:57Z",
+            "open_issues": 6,
             "owner": "jonasW3F",
             "repo": "staking-rewards-collector",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -828,12 +1230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fork of chevdor's srtool",
+            "homepage": null,
             "id": 308416420,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-17T12:31:56Z",
+            "open_issues": 6,
             "owner": "paritytech",
             "repo": "srtool",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -844,12 +1251,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sandbox to run and debug smart contracts for FRAME Contracts pallet and also a sandbox framework for Substrate runtime.",
+            "homepage": null,
             "id": 286742818,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-06-18T14:21:05Z",
+            "open_issues": 3,
             "owner": "patractlabs",
             "repo": "europa",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "europa",
+              "smart-contracts",
+              "substrate",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -860,12 +1278,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Your Substrate Alfred.",
+            "homepage": "https://hack-ink.github.io/subalfred/",
             "id": 308101834,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-19T14:40:48Z",
+            "open_issues": 20,
             "owner": "hack-ink",
             "repo": "subalfred",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "blockchain",
+              "polkadot",
+              "rust",
+              "substrate",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -876,12 +1305,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Subwasm is a cli utility to look inside a Substrate WASM Runtime. It can inspect and compare the metadata of Substrate based runtimes such as Polkadot or Kusama.",
+            "homepage": null,
             "id": 373303166,
             "language": "WebAssembly",
+            "license": "MIT",
             "last_commit": "2025-03-13T16:35:09Z",
+            "open_issues": 13,
             "owner": "chevdor",
             "repo": "subwasm",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "blockchain",
+              "chevdor",
+              "cli",
+              "metadata",
+              "polkadot",
+              "runtime",
+              "rust",
+              "substrate",
+              "tool",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -892,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redspot is an Substrate pallet-contracts (ink!) development environment. Compile your contracts and run them on a different networks. Redspot's core forks from Hardhat but changed a lot to suit substrate.",
+            "homepage": "https://redspot.patract.io/",
             "id": 297047159,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-09T05:09:04Z",
+            "open_issues": 15,
             "owner": "patractlabs",
             "repo": "redspot",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -908,12 +1358,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Helper funtions for offline transaction generation.",
+            "homepage": null,
             "id": 224686349,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-29T09:06:04Z",
+            "open_issues": 9,
             "owner": "paritytech",
             "repo": "txwrapper",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "offline",
+              "polkadot",
+              "tx"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -924,12 +1383,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wasm smart contract networks powered by Substrate FRAME Contracts pallet in Polkadot ecosystem.",
+            "homepage": null,
             "id": 288958582,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-05-01T03:42:50Z",
+            "open_issues": 1,
             "owner": "patractlabs",
             "repo": "jupiter",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "frame-contracts-pallet",
+              "ink",
+              "pallet-contracts",
+              "patract",
+              "polkadot",
+              "smart-contracts",
+              "substrate",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -940,12 +1413,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Substrate indexing framework",
+            "homepage": null,
             "id": 288132863,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-03-19T11:42:25Z",
+            "open_issues": 83,
             "owner": "Joystream",
             "repo": "hydra",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -956,12 +1436,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metadata & configs for client apps in Polkadot & Kusama ecosystem",
+            "homepage": "https://novawallet.io",
             "id": 421781829,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:48:21Z",
+            "open_issues": 41,
             "owner": "novasamatech",
             "repo": "nova-utils",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "blockchain",
+              "dapps",
+              "polkadot",
+              "staking",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -972,12 +1463,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚨 PANIC for Polkadot",
+            "homepage": null,
             "id": 235358773,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-05T20:10:40Z",
+            "open_issues": 18,
             "owner": "SimplyStaking",
             "repo": "panic_polkadot",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "alerter",
+              "blockchain",
+              "monitoring",
+              "polkadot"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -988,12 +1489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Halva is a toolchain for improving the experience of developing Decentralized Applications based on Substrate.",
+            "homepage": null,
             "id": 276251669,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-30T20:46:01Z",
+            "open_issues": 17,
             "owner": "halva-suite",
             "repo": "halva",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1004,12 +1510,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a compact graph indexer stack for parity substrate, polkadot, kusama",
+            "homepage": null,
             "id": 268479380,
             "language": "Elixir",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-07T07:33:58Z",
+            "open_issues": 10,
             "owner": "playzero",
             "repo": "substrate-graph",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "graphql",
+              "hasura",
+              "helm",
+              "kubernetes",
+              "polkadot",
+              "postgresql",
+              "rust",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1020,12 +1542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of useful JavaScript utilities for Substrate using Polkadot.js API",
+            "homepage": "https://www.shawntabrizi.com/substrate-js-utilities/",
             "id": 231917129,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-26T19:27:04Z",
+            "open_issues": 0,
             "owner": "shawntabrizi",
             "repo": "substrate-js-utilities",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1036,12 +1563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of random scripts and utilities written for Polkadot ",
+            "homepage": null,
             "id": 390328919,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2025-11-21T11:05:29Z",
+            "open_issues": 2,
             "owner": "paritytech",
             "repo": "polkadot-scripts",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1052,12 +1584,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI to inspect substrate metadata",
+            "homepage": null,
             "id": 329979241,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-04-26T09:25:25Z",
+            "open_issues": 2,
             "owner": "ascjones",
             "repo": "subsee",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1068,12 +1605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 401611224,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-03-06T06:24:56Z",
+            "open_issues": 0,
             "owner": "koute",
             "repo": "polkadot-starship",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1084,12 +1626,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This cli utility helps you harness the srtool docker image witout breaking a sweat. ",
+            "homepage": null,
             "id": 374573072,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-02-27T10:02:41Z",
+            "open_issues": 11,
             "owner": "chevdor",
             "repo": "srtool-cli",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "2021",
+              "blockchain",
+              "chevdor",
+              "cli",
+              "kusama",
+              "polkadot",
+              "runtime",
+              "rust",
+              "srtool",
+              "substrate",
+              "tooling"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1100,12 +1659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FUlly Decoupled Generic Environment for Substrate-chains",
+            "homepage": null,
             "id": 456964731,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-06T16:29:14Z",
+            "open_issues": 14,
             "owner": "centrifuge",
             "repo": "fudge",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1116,12 +1680,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A github action to easily build your Substrate WASM runtime using srtool with your CI",
+            "homepage": null,
             "id": 371758792,
             "language": "Just",
+            "license": null,
             "last_commit": "2024-01-02T14:47:31Z",
+            "open_issues": 5,
             "owner": "chevdor",
             "repo": "srtool-actions",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "blockchain",
+              "chevdor",
+              "github-actions",
+              "polkadot",
+              "runtime",
+              "srtool",
+              "substrate",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1132,12 +1710,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Substrate node management easy via self building docker images and easy infrastructure management",
+            "homepage": null,
             "id": 299996580,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2023-04-13T21:56:53Z",
+            "open_issues": 2,
             "owner": "ETeissonniere",
             "repo": "substrate-nodeops",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "docker",
+              "moncc",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1148,12 +1735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encode and decode dynamically constructed values of arbitrary shapes to/from SCALE bytes",
+            "homepage": null,
             "id": 493611725,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-17T15:41:51Z",
+            "open_issues": 2,
             "owner": "paritytech",
             "repo": "scale-value",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1164,12 +1756,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo for a safe and effective custodial hot wallet architecture using features innovated by Substrate FRAME pallets and featured in production chains such as Polkadot and Kusama.",
+            "homepage": null,
             "id": 300936624,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-30T03:51:52Z",
+            "open_issues": 2,
             "owner": "canontech",
             "repo": "proxy-hot-wallet",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "multisig-address",
+              "polkadot",
+              "substrate",
+              "transaction",
+              "transfer-funds"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1180,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Substrate package manager",
+            "homepage": null,
             "id": 265310794,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-07T12:36:37Z",
+            "open_issues": 1,
             "owner": "clearloop",
             "repo": "sup",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1196,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 504046955,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-06T18:47:37Z",
+            "open_issues": 3,
             "owner": "Supercolony-net",
             "repo": "typechain-polkadot",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1212,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript lib for gantree-cli",
+            "homepage": null,
             "id": 244791122,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-06T05:00:54Z",
+            "open_issues": 35,
             "owner": "gantree-io",
             "repo": "gantree-lib-nodejs",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1228,12 +1846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph the benchmark output of Substrate Pallets.",
+            "homepage": "https://www.shawntabrizi.com/substrate-graph-benchmarks",
             "id": 239140198,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-25T01:18:24Z",
+            "open_issues": 0,
             "owner": "shawntabrizi",
             "repo": "substrate-graph-benchmarks",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1244,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prometheus exporter for polkadot runtime metrics",
+            "homepage": null,
             "id": 353377501,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-10-26T08:50:03Z",
+            "open_issues": 9,
             "owner": "paritytech",
             "repo": "polkadot-runtime-prom-exporter",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1260,12 +1888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toml parser and checker to avoid common errors in Substrate projects",
+            "homepage": null,
             "id": 487335116,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-03T12:02:24Z",
+            "open_issues": 0,
             "owner": "shawntabrizi",
             "repo": "substrate-toml-lint",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1276,12 +1909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decode SCALE bytes into custom types using a scale-info type registry and a custom Visitor impl.",
+            "homepage": null,
             "id": 518503445,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T12:16:31Z",
+            "open_issues": 7,
             "owner": "paritytech",
             "repo": "scale-decode",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1292,12 +1930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Breakdown the balances of your Substrate account.",
+            "homepage": "https://www.shawntabrizi.com/substrate-balance-calculator/",
             "id": 308081155,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-09T23:42:23Z",
+            "open_issues": 0,
             "owner": "shawntabrizi",
             "repo": "substrate-balance-calculator",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1308,12 +1951,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wallet info for your favourite Dotsama cryptocurrencies like Polkadot (DOT), Kusama (KSM), Moonbeam (GLMR), Astar (ASTR), Acala (ACA), Subsocial (SUB), and other Substrate chains in the ecosystem.",
+            "homepage": "https://sub.id",
             "id": 599085701,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-13T10:56:52Z",
+            "open_issues": 3,
             "owner": "dappforce",
             "repo": "subid",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "acala",
+              "asset-management",
+              "astar",
+              "crypto-portfolio",
+              "kusama",
+              "moonbeam",
+              "nft",
+              "polkadot",
+              "portfolio",
+              "portfolio-manager",
+              "tokens"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1324,12 +1984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standalone JS bundle that contains Polkadot{JS} libraries",
+            "homepage": null,
             "id": 267141829,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-25T17:34:18Z",
+            "open_issues": 1,
             "owner": "shawntabrizi",
             "repo": "polkadot-js-bundle",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1340,12 +2005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a graph of the token balance over time of a Substrate address",
+            "homepage": "https://www.shawntabrizi.com/substrate-balance-graph/",
             "id": 233068581,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-09T23:34:21Z",
+            "open_issues": 0,
             "owner": "shawntabrizi",
             "repo": "substrate-balance-graph",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1356,12 +2026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic front-end for the Substrate Society pallet",
+            "homepage": "https://www.shawntabrizi.com/substrate-society/",
             "id": 234365865,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2023-01-05T05:15:51Z",
+            "open_issues": 27,
             "owner": "shawntabrizi",
             "repo": "substrate-society",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1372,12 +2047,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100% no-std/wasm compatible Substrate storage key generator",
+            "homepage": null,
             "id": 415125375,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-16T16:18:05Z",
+            "open_issues": 0,
             "owner": "arrudagates",
             "repo": "substate",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1388,12 +2070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"curl\" for substrate runtime upgrade testing",
+            "homepage": null,
             "id": 548393110,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-12-13T01:11:33Z",
+            "open_issues": 18,
             "owner": "uptest-sc",
             "repo": "uptest",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1404,12 +2091,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepository of npm packages we use in our projects.",
+            "homepage": null,
             "id": 452280902,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-23T17:26:49Z",
+            "open_issues": 59,
             "owner": "kodadot",
             "repo": "packages",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "graphql",
+              "hacktoberfest",
+              "kusama",
+              "npm",
+              "polkadot",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1420,12 +2119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 312046512,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-30T14:13:45Z",
+            "open_issues": 1,
             "owner": "starkleytech",
             "repo": "substrate-faucet",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1436,12 +2140,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 348261917,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-16T08:16:17Z",
+            "open_issues": 0,
             "owner": "patractlabs",
             "repo": "megaclite",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1457,12 +2166,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SubQuery API for saturating Nova Wallet as a data source. Focuses on the following use cases: 1) Provide complete operation history, including Transfers, Rewards/slashes, Other extrinsics 2) Provide data for staking analytics",
+                "homepage": "https://api.novasama.io",
                 "id": 374926378,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T15:48:07Z",
+                "open_issues": 10,
                 "owner": "novasamatech",
                 "repo": "subquery-history",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "blockchain",
+                  "indexer",
+                  "kusama",
+                  "polkadot",
+                  "substrate"
+                ]
               },
               "first_seen": "2026-08-28T15:35:19.229Z"
             }
@@ -1481,12 +2201,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕸️ Go Implementation of the Polkadot Host",
+            "homepage": "https://chainsafe.github.io/gossamer",
             "id": 168006517,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-10T18:05:35Z",
+            "open_issues": 409,
             "owner": "ChainSafe",
             "repo": "gossamer",
-            "stars": 454
+            "stars": 454,
+            "topics": [
+              "golang",
+              "p2p",
+              "polkadot",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1497,12 +2227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Substrate PoC Account-Based Runtime written in AssemblyScript.",
+            "homepage": null,
             "id": 274868731,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-20T22:42:18Z",
+            "open_issues": 35,
             "owner": "LimeChain",
             "repo": "as-substrate-runtime",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "assemblyscript",
+              "substrate",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         }
@@ -1519,12 +2258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, efficient, binary serialization and deserialization codec",
+            "homepage": null,
             "id": 148650739,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:11:28Z",
+            "open_issues": 67,
             "owner": "paritytech",
             "repo": "parity-scale-codec",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1535,12 +2279,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web3 API for Haskell",
+            "homepage": "http://hackage.haskell.org/package/web3",
             "id": 69875468,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:58:38Z",
+            "open_issues": 9,
             "owner": "airalab",
             "repo": "hs-web3",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "ethereum",
+              "haskell",
+              "ipfs",
+              "kusama",
+              "polkadot",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1551,12 +2307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang polkadot substrate scale codec ",
+            "homepage": "http://subscan.io",
             "id": 267804764,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T04:29:21Z",
+            "open_issues": 5,
             "owner": "subscan-explorer",
             "repo": "scale.go",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1567,12 +2328,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to access and build for Polkadot using Java",
+            "homepage": null,
             "id": 261338457,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T23:18:55Z",
+            "open_issues": 34,
             "owner": "splix",
             "repo": "polkaj",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "java",
+              "polkadot"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1583,12 +2352,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python SCALE-Codec",
+            "homepage": "https://jamdottech.github.io/py-scale-codec/",
             "id": 177969798,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-16T14:00:37Z",
+            "open_issues": 16,
             "owner": "JAMdotTech",
             "repo": "py-scale-codec",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "blockchain",
+              "codec",
+              "polkadot",
+              "polkascan",
+              "scale",
+              "scale-codec",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1599,12 +2381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AssemblyScript implementation of the SCALE codec used in the Parity Substrate framework.",
+            "homepage": null,
             "id": 261099915,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-12T06:12:11Z",
+            "open_issues": 5,
             "owner": "LimeChain",
             "repo": "as-scale-codec",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1615,12 +2402,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ruby SCALE Codec Library & Substrate Client",
+            "homepage": null,
             "id": 228293276,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-10-10T06:39:15Z",
+            "open_issues": 13,
             "owner": "itering",
             "repo": "scale.rb",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "codec",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1631,12 +2426,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SCALE encoding library",
+            "homepage": null,
             "id": 407277967,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-16T11:39:53Z",
+            "open_issues": 0,
             "owner": "MatthewDarnell",
             "repo": "cScale",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cryptocurrency",
+              "kusama",
+              "polkadot",
+              "scale",
+              "substrate",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1647,12 +2454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Designing a Better World Through Decentralized Technologies",
+            "homepage": null,
             "id": 421340061,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-05-15T14:21:35Z",
+            "open_issues": 5,
             "owner": "qdrvm",
             "repo": "scale-codec-cpp",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1663,12 +2475,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SCALE Serialization",
+            "homepage": null,
             "id": 378154190,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-17T17:18:49Z",
+            "open_issues": 3,
             "owner": "virto-network",
             "repo": "scales",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
         },
@@ -1684,12 +2501,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Promise and RxJS APIs around Polkadot and Substrate based chains via RPC calls. It is dynamically generated based on what the Substrate runtime provides in terms of metadata.",
+                "homepage": null,
                 "id": 111184073,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T12:27:11Z",
+                "open_issues": 43,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1110
+                "stars": 1110,
+                "topics": [
+                  "api",
+                  "blockchain",
+                  "jsonrpc",
+                  "polkadot",
+                  "polkadot-js",
+                  "substrate",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T15:35:19.229Z"
             },
@@ -1700,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 422716931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T15:55:38Z",
+                "open_issues": 1,
                 "owner": "unstoppablejs",
                 "repo": "unstoppablejs",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:35:19.229Z"
             },
@@ -1716,12 +2551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure JavaScript implementation of SCALE-codec",
+                "homepage": null,
                 "id": 372548129,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-03T05:53:44Z",
+                "open_issues": 8,
                 "owner": "soramitsu",
                 "repo": "scale-codec-js-library",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:35:19.229Z"
             }
@@ -1732,15 +2572,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:35:19.229Z",
+    "last_updated": "2026-08-29T04:37:57.775Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
+      "homepage": "https://substrate.io/ecosystem/resources/awesome-substrate",
       "id": 178537578,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2024-04-20T18:36:20Z",
+      "open_issues": 19,
       "owner": "polkadot-developers",
       "repo": "awesome-substrate",
-      "stars": 775
+      "stars": 775,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "consensus",
+        "cryptocurrency",
+        "cryptography",
+        "decentralization",
+        "distributed-systems",
+        "kusama",
+        "networking",
+        "polkadot",
+        "rust",
+        "substrate"
+      ]
     },
     "original_repository_sha": "e76e8cf8a7bffa6ce1e71c0222f5a3d75a2b6537",
     "enhanced_repository": "enhansome/enhansome-substrate",
