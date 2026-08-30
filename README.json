@@ -448,7 +448,7 @@
             "open_issues": 43,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1110,
+            "stars": 1111,
             "topics": [
               "api",
               "blockchain",
@@ -2510,7 +2510,7 @@
                 "open_issues": 43,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:20:36.215Z",
+    "last_updated": "2026-08-30T09:25:04.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",

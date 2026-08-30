@@ -119,7 +119,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Client Libraries
 
-* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,110 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
+* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,111 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
 * [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 91 | 🌐 Rust | 📅 2026-08-24 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 264 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 46 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
@@ -239,10 +239,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Scales](https://github.com/virto-network/scales) ⚠️ Archived - Serializing SCALE using type information from a type registry.
 * [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 * JavaScript / TypeScript implementations:
-  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,110 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Maintained by Polkadot-JS.
+  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,111 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Maintained by Polkadot-JS.
   * [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-28 - Maintained by Josep M Sobrepere.
   * [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2023-08-03 - Maintained by Soramitsu.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
