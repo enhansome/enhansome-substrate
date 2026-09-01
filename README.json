@@ -107,7 +107,7 @@
             "open_issues": 152,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 616,
+            "stars": 615,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -365,27 +365,6 @@
         },
         {
           "node_type": "item",
-          "title": "Frontier",
-          "description": "End-to-end Ethereum emulation for Substrate chains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ethereum and EVM compatibility layer for Polkadot and Substrate.",
-            "homepage": "https://polkadot-evm.github.io/frontier/",
-            "id": 156708951,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-10T23:21:11Z",
-            "open_issues": 152,
-            "owner": "polkadot-evm",
-            "repo": "frontier",
-            "stars": 616,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:35:19.229Z"
-        },
-        {
-          "node_type": "item",
           "title": "Cumulus",
           "description": "A set of tools for writing Substrate-based Polkadot parachains.",
           "children": [],
@@ -400,6 +379,27 @@
             "open_issues": 207,
             "owner": "paritytech",
             "repo": "cumulus",
+            "stars": 615,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:35:19.229Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Frontier",
+          "description": "End-to-end Ethereum emulation for Substrate chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ethereum and EVM compatibility layer for Polkadot and Substrate.",
+            "homepage": "https://polkadot-evm.github.io/frontier/",
+            "id": 156708951,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-10T23:21:11Z",
+            "open_issues": 152,
+            "owner": "polkadot-evm",
+            "repo": "frontier",
             "stars": 615,
             "topics": []
           },
@@ -1214,8 +1214,8 @@
             "id": 310317188,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-11T09:53:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-31T11:18:51Z",
+            "open_issues": 7,
             "owner": "jonasW3F",
             "repo": "staking-rewards-collector",
             "stars": 82,
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T09:18:45Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-01T01:17:23Z",
+            "open_issues": 43,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 44,
@@ -2313,7 +2313,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-03T04:29:21Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "subscan-explorer",
             "repo": "scale.go",
             "stars": 69,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:00:33.780Z",
+    "last_updated": "2026-09-01T08:51:11.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
@@ -2584,7 +2584,7 @@
       "open_issues": 19,
       "owner": "polkadot-developers",
       "repo": "awesome-substrate",
-      "stars": 775,
+      "stars": 776,
       "topics": [
         "awesome",
         "awesome-list",
