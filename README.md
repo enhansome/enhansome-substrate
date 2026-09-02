@@ -112,7 +112,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [ink!](https://github.com/paritytech/ink) ⭐ 1,455 | 🐛 173 | 🌐 Rust | 📅 2026-03-25 - Rust smart contract language for Substrate chains.
 * [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
 * [Frontier](https://github.com/paritytech/frontier) ⭐ 615 | 🐛 152 | 🌐 Rust | 📅 2026-08-10 - End-to-end Ethereum emulation for Substrate chains.
-* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 77 | 🌐 Rust | 📅 2026-08-31 - A collection of tools for cross-chain communication.
+* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 77 | 🌐 Rust | 📅 2026-09-01 - A collection of tools for cross-chain communication.
 * [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
 * [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 * [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
@@ -123,7 +123,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 91 | 🌐 Rust | 📅 2026-08-31 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 264 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 46 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
-* [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-07-24 - SS58 and more, developed by Subscan.
+* [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-09-02 - SS58 and more, developed by Subscan.
 * [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) ⭐ 209 | 🐛 47 | 🌐 Go | 📅 2024-09-19 - Maintained by [Centrifuge](https://centrifuge.io/).
 * [`useInkathon`](https://github.com/scio-labs/use-inkathon) ⭐ 54 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-24 - Typesafe React Hooks library abstracting functionality by polkadot.js for working with Substrate-based networks and ink! smart contracts maintained by Scio Labs.
 * [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) ⭐ 34 | 🐛 12 | 🌐 C# | 📅 2022-12-08 - Maintained by [Usetech](https://usetech.com/blockchain/).
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
