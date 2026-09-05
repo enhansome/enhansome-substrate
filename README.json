@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8399,
+            "stars": 8397,
             "topics": [
               "blockchain",
               "client",
@@ -348,7 +348,7 @@
             "open_issues": 173,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1455,
+            "stars": 1454,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -905,7 +905,7 @@
             "id": 429839517,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T15:36:11Z",
+            "last_commit": "2026-09-04T13:19:21Z",
             "open_issues": 3,
             "owner": "novasamatech",
             "repo": "substrate-sdk-android",
@@ -1048,7 +1048,7 @@
             "open_issues": 53,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1022,
+            "stars": 1021,
             "topics": [
               "blockchain",
               "extension",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T12:54:30Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-04T10:12:36Z",
+            "open_issues": 43,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 44,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:10:12.568Z",
+    "last_updated": "2026-09-05T07:49:19.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
