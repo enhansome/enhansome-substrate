@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1187,
+            "stars": 1188,
             "topics": [
               "blockchain",
               "kusama",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:49:19.318Z",
+    "last_updated": "2026-09-06T08:04:16.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
