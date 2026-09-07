@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,188 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,188 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -112,7 +112,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [ink!](https://github.com/paritytech/ink) ⭐ 1,454 | 🐛 173 | 🌐 Rust | 📅 2026-03-25 - Rust smart contract language for Substrate chains.
 * [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
 * [Frontier](https://github.com/paritytech/frontier) ⭐ 615 | 🐛 153 | 🌐 Rust | 📅 2026-09-02 - End-to-end Ethereum emulation for Substrate chains.
-* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 78 | 🌐 Rust | 📅 2026-09-01 - A collection of tools for cross-chain communication.
+* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 77 | 🌐 Rust | 📅 2026-09-07 - A collection of tools for cross-chain communication.
 * [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
 * [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 * [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,111 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 92 | 🌐 Rust | 📅 2026-09-03 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 92 | 🌐 Rust | 📅 2026-09-07 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 264 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 46 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-09-02 - SS58 and more, developed by Subscan.
@@ -227,7 +227,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## SCALE Codec
 
-* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 286 | 🐛 67 | 🌐 Rust | 📅 2026-08-25 - Reference implementation written in Rust.
+* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 287 | 🐛 68 | 🌐 Rust | 📅 2026-08-25 - Reference implementation written in Rust.
 * [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) ⭐ 198 | 🐛 9 | 🌐 Haskell | 📅 2026-08-27 - Maintained by [Robonomics Network](https://robonomics.network/).
 * [Go](https://github.com/itering/scale.go) ⭐ 69 | 🐛 6 | 🌐 Go | 📅 2026-08-03 - Maintained by [Itering](https://www.itering.com/).
 * [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) ⭐ 64 | 🐛 34 | 🌐 Java | 📅 2022-06-30 - Maintained by [Emerald](https://emerald.cash/).
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
