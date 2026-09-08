@@ -138,7 +138,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Mobile
 
-* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 30 | 🐛 6 | 🌐 Swift | 📅 2026-08-28 - Substrate SDK and tools for iOS.
+* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 30 | 🐛 6 | 🌐 Swift | 📅 2026-09-08 - Substrate SDK and tools for iOS.
 * [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 23 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
