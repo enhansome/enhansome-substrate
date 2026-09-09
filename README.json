@@ -417,8 +417,8 @@
             "id": 237876143,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T07:50:59Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-08T10:38:11Z",
+            "open_issues": 76,
             "owner": "paritytech",
             "repo": "parity-bridges-common",
             "stars": 280,
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T10:12:36Z",
+            "last_commit": "2026-09-09T07:55:41Z",
             "open_issues": 43,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:16:44.780Z",
+    "last_updated": "2026-09-09T08:19:58.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
