@@ -148,7 +148,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,021 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
+* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,021 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
 * [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) ⭐ 464 | 🐛 43 | 🌐 TypeScript | 📅 2023-02-04 - Simple CLI tool to launch a local Polkadot test network.
 * [Sidecar](https://github.com/paritytech/substrate-api-sidecar) ⭐ 268 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-02 - REST service that runs alongside Substrate nodes.
 * [Archive](https://github.com/paritytech/substrate-archive) ⭐ 199 | 🐛 61 | 🌐 Rust | 📅 2023-03-06 - Indexing engine for Substrate chains.
@@ -206,7 +206,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 * [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - Command line utility for working with cryptographic keys.
 * [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
-  * [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) ⭐ 22 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-14 - A SubQuery API implementation for operation history and staking analytics.
+  * [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) ⭐ 22 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-15 - A SubQuery API implementation for operation history and staking analytics.
 * [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 * [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 * [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
