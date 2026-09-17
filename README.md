@@ -110,17 +110,17 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Framework Extensions
 
 * [ink!](https://github.com/paritytech/ink) ⭐ 1,454 | 🐛 173 | 🌐 Rust | 📅 2026-03-25 - Rust smart contract language for Substrate chains.
-* [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
 * [Frontier](https://github.com/paritytech/frontier) ⭐ 615 | 🐛 153 | 🌐 Rust | 📅 2026-09-02 - End-to-end Ethereum emulation for Substrate chains.
-* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 79 | 🌐 Rust | 📅 2026-09-15 - A collection of tools for cross-chain communication.
+* [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
+* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 80 | 🌐 Rust | 📅 2026-09-16 - A collection of tools for cross-chain communication.
 * [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
 * [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 * [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
 
 ## Client Libraries
 
-* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,111 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 93 | 🌐 Rust | 📅 2026-09-16 - Official Rust client.
+* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,111 | 🐛 44 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 91 | 🌐 Rust | 📅 2026-09-16 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-09-02 - SS58 and more, developed by Subscan.
@@ -148,7 +148,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,021 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
+* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,020 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-31 - Browser extension for interacting with Substrate-based chains.
 * [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) ⭐ 464 | 🐛 43 | 🌐 TypeScript | 📅 2023-02-04 - Simple CLI tool to launch a local Polkadot test network.
 * [Sidecar](https://github.com/paritytech/substrate-api-sidecar) ⭐ 268 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-02 - REST service that runs alongside Substrate nodes.
 * [Archive](https://github.com/paritytech/substrate-archive) ⭐ 199 | 🐛 61 | 🌐 Rust | 📅 2023-03-06 - Indexing engine for Substrate chains.
@@ -161,10 +161,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [`subalfred`](https://github.com/hack-ink/subalfred) ⚠️ Archived - An all-in-one Substrate development toolbox.
 * [`subwasm`](https://github.com/chevdor/subwasm) ⭐ 71 | 🐛 13 | 🌐 WebAssembly | 📅 2025-03-13 - CLI to inspect a runtime WASM blob offline. It shows information, metadata and can compare runtimes. It can also help you fetch a runtime directly from a node.
 * [Redspot](https://github.com/patractlabs/redspot) ⭐ 69 | 🐛 15 | 🌐 TypeScript | 📅 2022-07-09 - A [Truffle](https://www.trufflesuite.com/truffle)-like toolkit for smart contracts for the FRAME Contracts pallet and ink!.
-* [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
+* [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 44 | 🐛 43 | 🌐 Python | 📅 2026-09-16 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 44 | 🐛 45 | 🌐 Python | 📅 2026-09-16 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -239,10 +239,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Scales](https://github.com/virto-network/scales) ⚠️ Archived - Serializing SCALE using type information from a type registry.
 * [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 * JavaScript / TypeScript implementations:
-  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,111 | 🐛 43 | 🌐 TypeScript | 📅 2026-07-22 - Maintained by Polkadot-JS.
+  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,111 | 🐛 44 | 🌐 TypeScript | 📅 2026-07-22 - Maintained by Polkadot-JS.
   * [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-28 - Maintained by Josep M Sobrepere.
   * [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2023-08-03 - Maintained by Soramitsu.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
