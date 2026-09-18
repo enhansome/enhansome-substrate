@@ -473,8 +473,8 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T16:01:02Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-17T11:26:39Z",
+            "open_issues": 92,
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 489,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:50:54.593Z",
+    "last_updated": "2026-09-18T08:26:21.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
