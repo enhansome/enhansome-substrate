@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,188 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,189 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,111 | 🐛 44 | 🌐 TypeScript | 📅 2026-07-22 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 92 | 🌐 Rust | 📅 2026-09-17 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 489 | 🐛 92 | 🌐 Rust | 📅 2026-09-18 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 256 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 210 | 🐛 35 | 🌐 Go | 📅 2026-09-02 - SS58 and more, developed by Subscan.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

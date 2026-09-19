@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1188,
+            "stars": 1189,
             "topics": [
               "blockchain",
               "kusama",
@@ -473,7 +473,7 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T11:26:39Z",
+            "last_commit": "2026-09-18T09:07:37Z",
             "open_issues": 92,
             "owner": "paritytech",
             "repo": "subxt",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:26:21.077Z",
+    "last_updated": "2026-09-19T08:14:29.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
