@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8394,
+            "stars": 8395,
             "topics": [
               "blockchain",
               "client",
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T12:33:09Z",
+            "last_commit": "2026-09-19T09:39:33Z",
             "open_issues": 45,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:14:29.853Z",
+    "last_updated": "2026-09-20T08:46:25.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
