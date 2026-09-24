@@ -107,7 +107,7 @@
             "open_issues": 153,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8394,
+            "stars": 8393,
             "topics": [
               "blockchain",
               "client",
@@ -229,7 +229,7 @@
             "open_issues": 59,
             "owner": "open-web3-stack",
             "repo": "open-runtime-module-library",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "rust",
               "substrate"
@@ -379,7 +379,7 @@
             "open_issues": 153,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -444,8 +444,8 @@
             "id": 111184073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T19:53:01Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-23T14:01:05Z",
+            "open_issues": 46,
             "owner": "polkadot-js",
             "repo": "api",
             "stars": 1111,
@@ -1044,7 +1044,7 @@
             "id": 187620157,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-31T16:13:21Z",
+            "last_commit": "2026-09-23T18:44:52Z",
             "open_issues": 52,
             "owner": "polkadot-js",
             "repo": "extension",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T01:05:44Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-23T14:24:44Z",
+            "open_issues": 45,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 44,
@@ -2172,7 +2172,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T09:14:26Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "novasamatech",
                 "repo": "subquery-history",
                 "stars": 22,
@@ -2463,7 +2463,7 @@
             "open_issues": 5,
             "owner": "qdrvm",
             "repo": "scale-codec-cpp",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -2506,8 +2506,8 @@
                 "id": 111184073,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T19:53:01Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-23T14:01:05Z",
+                "open_issues": 46,
                 "owner": "polkadot-js",
                 "repo": "api",
                 "stars": 1111,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:46:27.755Z",
+    "last_updated": "2026-09-24T08:41:08.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
