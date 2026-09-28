@@ -400,7 +400,7 @@
             "open_issues": 207,
             "owner": "paritytech",
             "repo": "cumulus",
-            "stars": 614,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -417,8 +417,8 @@
             "id": 237876143,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T14:30:39Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-28T07:57:56Z",
+            "open_issues": 80,
             "owner": "paritytech",
             "repo": "parity-bridges-common",
             "stars": 280,
@@ -473,7 +473,7 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:29:44Z",
+            "last_commit": "2026-09-28T00:52:54Z",
             "open_issues": 94,
             "owner": "paritytech",
             "repo": "subxt",
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T01:06:51Z",
+            "last_commit": "2026-09-28T09:46:48Z",
             "open_issues": 46,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:28:00.823Z",
+    "last_updated": "2026-09-28T10:05:22.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
