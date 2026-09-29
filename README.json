@@ -345,7 +345,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-03-25T22:17:43Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
             "stars": 1454,
@@ -494,7 +494,7 @@
             "id": 181680099,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-18T06:58:04Z",
+            "last_commit": "2026-09-29T09:02:21Z",
             "open_issues": 47,
             "owner": "scs",
             "repo": "substrate-api-client",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:46:48Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-28T19:40:21Z",
+            "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:05:22.009Z",
+    "last_updated": "2026-09-29T10:03:38.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
