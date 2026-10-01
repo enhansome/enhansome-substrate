@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1189,
+            "stars": 1190,
             "topics": [
               "blockchain",
               "kusama",
@@ -473,7 +473,7 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T00:52:54Z",
+            "last_commit": "2026-09-30T21:04:15Z",
             "open_issues": 94,
             "owner": "paritytech",
             "repo": "subxt",
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T08:57:24Z",
+            "last_commit": "2026-10-01T06:04:42Z",
             "open_issues": 49,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T09:56:23.866Z",
+    "last_updated": "2026-10-01T10:23:40.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
@@ -2581,7 +2581,7 @@
       "language": null,
       "license": "Unlicense",
       "last_commit": "2024-04-20T18:36:20Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "polkadot-developers",
       "repo": "awesome-substrate",
       "stars": 775,
