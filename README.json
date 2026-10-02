@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1190,
+            "stars": 1189,
             "topics": [
               "blockchain",
               "kusama",
@@ -444,11 +444,11 @@
             "id": 111184073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T20:06:13Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-01T17:19:41Z",
+            "open_issues": 40,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "api",
               "blockchain",
@@ -1048,7 +1048,7 @@
             "open_issues": 52,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "blockchain",
               "extension",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T06:04:42Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-02T08:49:34Z",
+            "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2506,11 +2506,11 @@
                 "id": 111184073,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T20:06:13Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-01T17:19:41Z",
+                "open_issues": 40,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:23:40.619Z",
+    "last_updated": "2026-10-02T09:59:18.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
