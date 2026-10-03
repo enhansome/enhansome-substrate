@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1189,
+            "stars": 1188,
             "topics": [
               "blockchain",
               "kusama",
@@ -37,7 +37,7 @@
             {
               "node_type": "item",
               "title": "Polkadot: Vision for a heterogeneous multi-chain framework",
-              "description": null,
+              "description": "polkadot-io/polkadot-white-paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8391,
+            "stars": 8389,
             "topics": [
               "blockchain",
               "client",
@@ -448,7 +448,7 @@
             "open_issues": 40,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "api",
               "blockchain",
@@ -1145,7 +1145,7 @@
             "open_issues": 9,
             "owner": "maxsam4",
             "repo": "fork-off-substrate",
-            "stars": 110,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -2510,7 +2510,7 @@
                 "open_issues": 40,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1112,
+                "stars": 1111,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:59:18.593Z",
+    "last_updated": "2026-10-03T05:08:48.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
