@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:49:34Z",
+            "last_commit": "2026-10-03T14:30:16Z",
             "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:22:25.526Z",
+    "last_updated": "2026-10-04T10:00:40.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
