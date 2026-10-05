@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8389,
+            "stars": 8388,
             "topics": [
               "blockchain",
               "client",
@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1454,
+            "stars": 1453,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -417,7 +417,7 @@
             "id": 237876143,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T07:57:56Z",
+            "last_commit": "2026-10-05T01:12:33Z",
             "open_issues": 80,
             "owner": "paritytech",
             "repo": "parity-bridges-common",
@@ -448,7 +448,7 @@
             "open_issues": 40,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1111,
+            "stars": 1110,
             "topics": [
               "api",
               "blockchain",
@@ -473,7 +473,7 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T21:04:15Z",
+            "last_commit": "2026-10-05T08:54:09Z",
             "open_issues": 94,
             "owner": "paritytech",
             "repo": "subxt",
@@ -550,7 +550,7 @@
             "open_issues": 35,
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
-            "stars": 211,
+            "stars": 210,
             "topics": [
               "blockchain",
               "blockchain-explorer",
@@ -1441,11 +1441,11 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T14:30:16Z",
+            "last_commit": "2026-10-05T08:45:07Z",
             "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "blockchain",
               "dapps",
@@ -2210,7 +2210,7 @@
             "open_issues": 409,
             "owner": "ChainSafe",
             "repo": "gossamer",
-            "stars": 454,
+            "stars": 452,
             "topics": [
               "golang",
               "p2p",
@@ -2510,7 +2510,7 @@
                 "open_issues": 40,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1111,
+                "stars": 1110,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:00:40.325Z",
+    "last_updated": "2026-10-05T10:46:07.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
