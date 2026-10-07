@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1453,
+            "stars": 1452,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -448,7 +448,7 @@
             "open_issues": 40,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1110,
+            "stars": 1111,
             "topics": [
               "api",
               "blockchain",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:16:42Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-07T09:42:08Z",
+            "open_issues": 46,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2510,7 +2510,7 @@
                 "open_issues": 40,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:46.156Z",
+    "last_updated": "2026-10-07T10:31:18.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
