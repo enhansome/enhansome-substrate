@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1188,
+            "stars": 1190,
             "topics": [
               "blockchain",
               "kusama",
@@ -128,7 +128,7 @@
             "open_issues": 19,
             "owner": "jimmychu0807",
             "repo": "substrate-front-end-template",
-            "stars": 319,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8388,
+            "stars": 8386,
             "topics": [
               "blockchain",
               "client",
@@ -547,7 +547,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-02T04:09:32Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
             "stars": 210,
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T09:42:08Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-08T07:47:06Z",
+            "open_issues": 49,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:31:18.527Z",
+    "last_updated": "2026-10-08T10:51:18.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
