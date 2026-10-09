@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "blockchain",
               "kusama",
@@ -1218,7 +1218,7 @@
             "open_issues": 7,
             "owner": "jonasW3F",
             "repo": "staking-rewards-collector",
-            "stars": 82,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T07:47:06Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-09T10:15:48Z",
+            "open_issues": 51,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2288,7 +2288,7 @@
             "open_issues": 9,
             "owner": "airalab",
             "repo": "hs-web3",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "ethereum",
               "haskell",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:51:18.397Z",
+    "last_updated": "2026-10-09T10:50:03.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
