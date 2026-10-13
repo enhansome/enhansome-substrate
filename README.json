@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-03-19T15:16:40Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "w3f",
             "repo": "Grants-Program",
             "stars": 1192,
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T07:14:37Z",
+            "last_commit": "2026-10-13T07:14:30Z",
             "open_issues": 51,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:14:02.144Z",
+    "last_updated": "2026-10-13T10:56:21.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
