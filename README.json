@@ -104,7 +104,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T11:08:20Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "polkadot-evm",
             "repo": "frontier",
             "stars": 615,
@@ -376,7 +376,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T11:08:20Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "polkadot-evm",
             "repo": "frontier",
             "stars": 615,
@@ -1218,7 +1218,7 @@
             "open_issues": 7,
             "owner": "jonasW3F",
             "repo": "staking-rewards-collector",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T07:14:30Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-13T13:37:26Z",
+            "open_issues": 52,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T10:56:21.908Z",
+    "last_updated": "2026-10-14T08:57:24.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
