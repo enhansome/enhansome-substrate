@@ -128,7 +128,7 @@
             "open_issues": 19,
             "owner": "jimmychu0807",
             "repo": "substrate-front-end-template",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8385,
+            "stars": 8384,
             "topics": [
               "blockchain",
               "client",
@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1453,
+            "stars": 1452,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -400,7 +400,7 @@
             "open_issues": 207,
             "owner": "paritytech",
             "repo": "cumulus",
-            "stars": 613,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T13:37:26Z",
+            "last_commit": "2026-10-15T06:04:40Z",
             "open_issues": 52,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2313,7 +2313,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T10:30:13Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "subscan-explorer",
             "repo": "scale.go",
             "stars": 69,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:57:24.624Z",
+    "last_updated": "2026-10-15T08:31:38.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
