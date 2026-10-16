@@ -1048,7 +1048,7 @@
             "open_issues": 52,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1019,
+            "stars": 1020,
             "topics": [
               "blockchain",
               "extension",
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T06:04:40Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-16T07:59:43Z",
+            "open_issues": 53,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:31:38.245Z",
+    "last_updated": "2026-10-16T08:26:05.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
