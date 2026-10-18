@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "blockchain",
               "kusama",
@@ -550,7 +550,7 @@
             "open_issues": 36,
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "blockchain",
               "blockchain-explorer",
@@ -573,7 +573,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-09-19T13:10:16Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "centrifuge",
             "repo": "go-substrate-rpc-client",
             "stars": 209,
@@ -1441,8 +1441,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T06:04:02Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-18T06:04:00Z",
+            "open_issues": 54,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 46,
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:59:20.162Z",
+    "last_updated": "2026-10-18T08:16:11.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
