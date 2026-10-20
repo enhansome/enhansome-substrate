@@ -139,7 +139,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Mobile
 
 * [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 31 | 🐛 6 | 🌐 Swift | 📅 2026-09-29 - Substrate SDK and tools for iOS.
-* [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 23 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
+* [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 24 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
 * [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) ⭐ 20 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-09 - Android Substrate tools.
@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 46 | 🐛 52 | 🌐 Python | 📅 2026-10-19 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 46 | 🐛 52 | 🌐 Python | 📅 2026-10-20 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
