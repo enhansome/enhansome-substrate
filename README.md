@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,194 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,195 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,112 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 491 | 🐛 95 | 🌐 Rust | 📅 2026-10-19 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 97 | 🌐 Rust | 📅 2026-10-19 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-09-29 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 257 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 211 | 🐛 36 | 🌐 Go | 📅 2026-10-22 - SS58 and more, developed by Subscan.
@@ -142,7 +142,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 24 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
-* [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) ⭐ 20 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-23 - Android Substrate tools.
+* [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) ⭐ 20 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-25 - Android Substrate tools.
 * [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) ⭐ 17 | 🐛 8 | 🌐 Dart | 📅 2025-03-30 - Flutter SDK for Substrate-based App.
 * [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2023-09-15 - iOS Substrate tools.
 
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1194,
+            "stars": 1195,
             "topics": [
               "blockchain",
               "kusama",
@@ -201,7 +201,7 @@
             "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8381,
+            "stars": 8380,
             "topics": [
               "blockchain",
               "client",
@@ -474,10 +474,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T00:46:44Z",
-            "open_issues": 95,
+            "open_issues": 97,
             "owner": "paritytech",
             "repo": "subxt",
-            "stars": 491,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -975,7 +975,7 @@
             "id": 278060389,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T06:00:57Z",
+            "last_commit": "2026-10-25T00:30:24Z",
             "open_issues": 7,
             "owner": "soramitsu",
             "repo": "fearless-utils-Android",
@@ -1441,7 +1441,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T06:04:04Z",
+            "last_commit": "2026-10-24T13:28:09Z",
             "open_issues": 52,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:20:36.835Z",
+    "last_updated": "2026-10-25T08:39:30.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
