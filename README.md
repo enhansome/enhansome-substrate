@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,112 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 97 | 🌐 Rust | 📅 2026-10-19 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 97 | 🌐 Rust | 📅 2026-10-26 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-09-29 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 257 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 211 | 🐛 36 | 🌐 Go | 📅 2026-10-22 - SS58 and more, developed by Subscan.
@@ -142,9 +142,9 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 24 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
-* [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) ⭐ 20 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-25 - Android Substrate tools.
 * [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) ⭐ 17 | 🐛 8 | 🌐 Dart | 📅 2025-03-30 - Flutter SDK for Substrate-based App.
-* [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2023-09-15 - iOS Substrate tools.
+* [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate tools.
+* [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.
 
 ## Tools
 
@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 46 | 🐛 52 | 🌐 Python | 📅 2026-10-24 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 46 | 🐛 52 | 🌐 Python | 📅 2026-10-26 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -176,7 +176,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [fudge](https://github.com/centrifuge/fudge) ⭐ 22 | 🐛 14 | 🌐 Rust | 📅 2024-06-06 - Core lib for accessing and (arbitrarily) manipulating substrate databases, including the building and importing of local blocks.
 * [`srtool-actions`](https://github.com/chevdor/srtool-actions) ⭐ 20 | 🐛 5 | 🌐 Just | 📅 2024-01-02 - GitHub actions to easily use the `srtool` Docker image to build your own runtime.
 * [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) ⭐ 20 | 🐛 2 | 🌐 Dockerfile | 📅 2023-04-13 - A set of Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
-* [`scale-value`](https://github.com/paritytech/scale-value) ⭐ 18 | 🐛 2 | 🌐 Rust | 📅 2026-02-17 - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
+* [`scale-value`](https://github.com/paritytech/scale-value) ⭐ 18 | 🐛 4 | 🌐 Rust | 📅 2026-10-26 - Analogous to `serde_json` but for SCALE; Library to decode arbitrary SCALE encoded bytes into a dynamic `Value` given type info from `scale-info`.
 * [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2021-04-30 - A demonstration of a secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
 * [`sup`](https://github.com/clearloop/sup) ⭐ 17 | 🐛 1 | 🌐 Rust | 📅 2021-12-07 - Command line tool for generating or upgrading a Substrate node.
 * [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) ⭐ 14 | 🐛 3 | 🌐 TypeScript | 📅 2023-06-06 - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
