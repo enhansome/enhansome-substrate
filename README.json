@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1451,
+            "stars": 1452,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -1044,13 +1044,13 @@
           "description": "REST service that runs alongside Substrate nodes.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "REST service that makes it easy to interact with blockchain nodes built using Substrate's FRAME framework.",
             "homepage": "https://paritytech.github.io/substrate-api-sidecar/dist/",
             "id": 224672691,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T09:25:24Z",
+            "last_commit": "2026-10-28T13:39:07Z",
             "open_issues": 114,
             "owner": "paritytech",
             "repo": "substrate-api-sidecar",
@@ -1399,8 +1399,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T09:31:24Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-29T06:04:10Z",
+            "open_issues": 54,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:56:42.448Z",
+    "last_updated": "2026-10-29T10:19:37.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
