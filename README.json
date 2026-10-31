@@ -1399,8 +1399,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T06:04:06Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-31T09:11:56Z",
+            "open_issues": 53,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -1526,8 +1526,8 @@
             "id": 390328919,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-10-21T11:42:45Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-30T11:58:38Z",
+            "open_issues": 8,
             "owner": "paritytech",
             "repo": "polkadot-scripts",
             "stars": 27,
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:21:41.104Z",
+    "last_updated": "2026-10-31T09:53:23.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
