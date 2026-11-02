@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,194 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,194 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -112,7 +112,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [ink!](https://github.com/paritytech/ink) ⭐ 1,452 | 🐛 174 | 🌐 Rust | 📅 2026-10-30 - Rust smart contract language for Substrate chains.
 * [Frontier](https://github.com/paritytech/frontier) ⭐ 613 | 🐛 145 | 🌐 Rust | 📅 2026-10-12 - End-to-end Ethereum emulation for Substrate chains.
 * [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
-* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 80 | 🌐 Rust | 📅 2026-10-30 - A collection of tools for cross-chain communication.
+* [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 82 | 🌐 Rust | 📅 2026-11-02 - A collection of tools for cross-chain communication.
 * [FRAME](https://docs.substrate.io/v3/runtime/frame/) - A system for building Substrate runtimes.
 * [IntegriTEE](https://book.integritee.network/) - Trusted off-chain execution framework that uses [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) trusted execution environments.
 * [Polkadot-JS](https://polkadot.js.org/) - Rich JavaScript API framework for front-end development.
@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,113 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 100 | 🌐 Rust | 📅 2026-10-27 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 101 | 🌐 Rust | 📅 2026-11-02 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-09-29 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 257 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 211 | 🐛 36 | 🌐 Go | 📅 2026-10-22 - SS58 and more, developed by Subscan.
@@ -138,7 +138,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Mobile
 
-* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 31 | 🐛 6 | 🌐 Swift | 📅 2026-09-29 - Substrate SDK and tools for iOS.
+* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 31 | 🐛 6 | 🌐 Swift | 📅 2026-11-01 - Substrate SDK and tools for iOS.
 * [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 24 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
