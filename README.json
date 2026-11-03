@@ -473,8 +473,8 @@
             "id": 200629301,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T00:31:51Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-02T15:40:49Z",
+            "open_issues": 102,
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 490,
@@ -1399,7 +1399,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T09:11:56Z",
+            "last_commit": "2026-11-03T06:03:19Z",
             "open_issues": 53,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:35:05.673Z",
+    "last_updated": "2026-11-03T11:13:24.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
