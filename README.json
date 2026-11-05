@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1194,
+            "stars": 1193,
             "topics": [
               "blockchain",
               "kusama",
@@ -344,8 +344,8 @@
             "id": 161224066,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T11:15:15Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-05T11:07:53Z",
+            "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
             "stars": 1452,
@@ -1399,7 +1399,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T07:17:28Z",
+            "last_commit": "2026-11-05T06:03:01Z",
             "open_issues": 54,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:24:58.648Z",
+    "last_updated": "2026-11-05T11:23:07.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
