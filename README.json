@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "blockchain",
               "kusama",
@@ -445,7 +445,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:19:41Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "polkadot-js",
             "repo": "api",
             "stars": 1115,
@@ -2465,7 +2465,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:19:41Z",
-                "open_issues": 42,
+                "open_issues": 44,
                 "owner": "polkadot-js",
                 "repo": "api",
                 "stars": 1115,
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:35:33.806Z",
+    "last_updated": "2026-11-08T10:40:44.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
