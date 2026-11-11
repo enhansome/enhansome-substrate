@@ -100,7 +100,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## FRAME Pallets
 
 * [Official in Substrate](https://github.com/paritytech/substrate/tree/master/frame) ⚠️ Archived - Large collection, Parity maintained.
-* [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) ⭐ 466 | 🐛 59 | 🌐 Rust | 📅 2026-03-17 - Community maintained collection of Substrate runtime modules.
+* [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) ⭐ 467 | 🐛 59 | 🌐 Rust | 📅 2026-03-17 - Community maintained collection of Substrate runtime modules.
 * [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) ⚠️ Archived - Chainlink feed token interface.
 * [RMRK Pallets](https://github.com/rmrk-team/rmrk-substrate) ⭐ 72 | 🐛 20 | 🌐 TypeScript | 📅 2023-10-06 - Nested, conditional & Multi-resourced NFTs.
 * [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) ⚠️ Archived - Keybase-inspired identity management.
@@ -109,7 +109,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Framework Extensions
 
-* [ink!](https://github.com/paritytech/ink) ⭐ 1,453 | 🐛 174 | 🌐 Rust | 📅 2026-11-06 - Rust smart contract language for Substrate chains.
+* [ink!](https://github.com/paritytech/ink) ⭐ 1,454 | 🐛 174 | 🌐 Rust | 📅 2026-11-06 - Rust smart contract language for Substrate chains.
 * [Frontier](https://github.com/paritytech/frontier) ⭐ 613 | 🐛 145 | 🌐 Rust | 📅 2026-10-12 - End-to-end Ethereum emulation for Substrate chains.
 * [Cumulus](https://github.com/paritytech/cumulus) ⚠️ Archived - A set of tools for writing Substrate-based Polkadot parachains.
 * [Bridges](https://github.com/paritytech/parity-bridges-common) ⭐ 280 | 🐛 84 | 🌐 Rust | 📅 2026-11-09 - A collection of tools for cross-chain communication.
@@ -120,7 +120,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 ## Client Libraries
 
 * [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,115 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
-* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 102 | 🌐 Rust | 📅 2026-11-09 - Official Rust client.
+* [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 491 | 🐛 102 | 🌐 Rust | 📅 2026-11-09 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 265 | 🐛 47 | 🌐 Rust | 📅 2026-09-29 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 257 | 🐛 47 | 🌐 Python | 📅 2026-06-15 - Maintained by [Polkascan Foundation](https://polkascan.org/).
 * [Subscan Go Utilities](https://github.com/itering/subscan-essentials) ⭐ 211 | 🐛 36 | 🌐 Go | 📅 2026-10-22 - SS58 and more, developed by Subscan.
@@ -138,7 +138,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Mobile
 
-* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 31 | 🐛 6 | 🌐 Swift | 📅 2026-11-01 - Substrate SDK and tools for iOS.
+* [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) ⭐ 31 | 🐛 6 | 🌐 Swift | 📅 2026-11-10 - Substrate SDK and tools for iOS.
 * [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) ⭐ 24 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-04 - Substrate SDK and tools for Android.
 * [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) ⚠️ Archived - Rust library for React Native.
 * [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) ⚠️ Archived - Dart Substrate API.
@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 56 | 🌐 Python | 📅 2026-11-10 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 58 | 🌐 Python | 📅 2026-11-10 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -221,13 +221,13 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Alternative Implementations
 
-* [Gossamer](https://github.com/ChainSafe/gossamer) ⭐ 452 | 🐛 411 | 🌐 Go | 📅 2026-11-06 - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
+* [Gossamer](https://github.com/ChainSafe/gossamer) ⭐ 453 | 🐛 411 | 🌐 Go | 📅 2026-11-06 - A Polkadot client implemented in Go; from [ChainSafe](https://chainsafe.io/).
 * [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) ⭐ 15 | 🐛 35 | 🌐 TypeScript | 📅 2023-01-20 - An account-based Substrate proof-of-concept runtime written in AssemblyScript; from [LimeChain](https://limechain.tech/).
 * [Kagome](https://kagome.readthedocs.io/en/latest/) - A C++17 implementation of the Polkadot client; from [Soramitsu](http://www.soramitsu.co.jp/).
 
 ## SCALE Codec
 
-* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 287 | 🐛 67 | 🌐 Rust | 📅 2026-10-23 - Reference implementation written in Rust.
+* [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) ⭐ 288 | 🐛 67 | 🌐 Rust | 📅 2026-10-23 - Reference implementation written in Rust.
 * [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) ⭐ 199 | 🐛 9 | 🌐 Haskell | 📅 2026-10-23 - Maintained by [Robonomics Network](https://robonomics.network/).
 * [Go](https://github.com/itering/scale.go) ⭐ 69 | 🐛 7 | 🌐 Go | 📅 2026-09-11 - Maintained by [Itering](https://www.itering.com/).
 * [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) ⭐ 64 | 🐛 33 | 🌐 Java | 📅 2022-06-30 - Maintained by [Emerald](https://emerald.cash/).
@@ -245,4 +245,4 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

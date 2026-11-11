@@ -229,7 +229,7 @@
             "open_issues": 59,
             "owner": "open-web3-stack",
             "repo": "open-runtime-module-library",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "rust",
               "substrate"
@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -400,7 +400,7 @@
             "open_issues": 203,
             "owner": "paritytech",
             "repo": "cumulus",
-            "stars": 610,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -477,7 +477,7 @@
             "open_issues": 102,
             "owner": "paritytech",
             "repo": "subxt",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -877,7 +877,7 @@
             "id": 420012497,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T21:36:21Z",
+            "last_commit": "2026-11-10T15:44:32Z",
             "open_issues": 6,
             "owner": "novasamatech",
             "repo": "substrate-sdk-ios",
@@ -1399,8 +1399,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T10:18:35Z",
-            "open_issues": 56,
+            "last_commit": "2026-11-10T12:25:38Z",
+            "open_issues": 58,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2168,7 +2168,7 @@
             "open_issues": 411,
             "owner": "ChainSafe",
             "repo": "gossamer",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "golang",
               "p2p",
@@ -2225,7 +2225,7 @@
             "open_issues": 67,
             "owner": "paritytech",
             "repo": "parity-scale-codec",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:33:52.626Z",
+    "last_updated": "2026-11-11T11:21:39.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
@@ -2542,7 +2542,7 @@
       "open_issues": 21,
       "owner": "polkadot-developers",
       "repo": "awesome-substrate",
-      "stars": 776,
+      "stars": 777,
       "topics": [
         "awesome",
         "awesome-list",
