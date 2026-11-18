@@ -107,7 +107,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -201,7 +201,7 @@
             "open_issues": 620,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8374,
+            "stars": 8373,
             "topics": [
               "blockchain",
               "client",
@@ -379,7 +379,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -547,7 +547,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-22T08:01:00Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "subscan-explorer",
             "repo": "subscan-essentials",
             "stars": 210,
@@ -604,7 +604,7 @@
             "open_issues": 12,
             "owner": "scio-labs",
             "repo": "use-inkathon",
-            "stars": 54,
+            "stars": 53,
             "topics": [
               "blockchain",
               "hooks",
@@ -727,8 +727,8 @@
             "id": 343226536,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T22:47:05Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-18T11:55:49Z",
+            "open_issues": 50,
             "owner": "virto-network",
             "repo": "virto-sdk",
             "stars": 24,
@@ -1399,8 +1399,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T06:03:21Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-18T08:14:06Z",
+            "open_issues": 48,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:18:33.361Z",
+    "last_updated": "2026-11-18T12:05:34.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
