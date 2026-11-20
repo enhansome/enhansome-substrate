@@ -107,7 +107,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 614,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -201,7 +201,7 @@
             "open_issues": 620,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8374,
+            "stars": 8371,
             "topics": [
               "blockchain",
               "client",
@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1454,
+            "stars": 1453,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -379,7 +379,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 614,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -445,10 +445,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:19:41Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1116,
+            "stars": 1117,
             "topics": [
               "api",
               "blockchain",
@@ -477,7 +477,7 @@
             "open_issues": 105,
             "owner": "paritytech",
             "repo": "subxt",
-            "stars": 491,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -521,7 +521,7 @@
             "open_issues": 47,
             "owner": "JAMdotTech",
             "repo": "py-polkadot-sdk",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "blockchain",
               "client",
@@ -727,7 +727,7 @@
             "id": 343226536,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T08:59:24Z",
+            "last_commit": "2026-11-19T22:57:45Z",
             "open_issues": 41,
             "owner": "virto-network",
             "repo": "virto-sdk",
@@ -1006,7 +1006,7 @@
             "open_issues": 54,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1022,
+            "stars": 1021,
             "topics": [
               "blockchain",
               "extension",
@@ -1033,7 +1033,7 @@
             "open_issues": 40,
             "owner": "paritytech",
             "repo": "polkadot-launch",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -1399,8 +1399,8 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:49:31Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-20T07:32:37Z",
+            "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
             "stars": 45,
@@ -2465,10 +2465,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:19:41Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:59:57.385Z",
+    "last_updated": "2026-11-20T12:01:22.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
@@ -2542,7 +2542,7 @@
       "open_issues": 21,
       "owner": "polkadot-developers",
       "repo": "awesome-substrate",
-      "stars": 777,
+      "stars": 776,
       "topics": [
         "awesome",
         "awesome-list",
