@@ -1003,7 +1003,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T18:44:52Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "polkadot-js",
             "repo": "extension",
             "stars": 1021,
@@ -1399,7 +1399,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T07:32:37Z",
+            "last_commit": "2026-11-22T09:06:45Z",
             "open_issues": 47,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2168,7 +2168,7 @@
             "open_issues": 411,
             "owner": "ChainSafe",
             "repo": "gossamer",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "golang",
               "p2p",
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T11:36:40.290Z",
+    "last_updated": "2026-11-22T11:50:14.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
