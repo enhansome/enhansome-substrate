@@ -107,7 +107,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 613,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -229,7 +229,7 @@
             "open_issues": 59,
             "owner": "open-web3-stack",
             "repo": "open-runtime-module-library",
-            "stars": 467,
+            "stars": 466,
             "topics": [
               "rust",
               "substrate"
@@ -348,7 +348,7 @@
             "open_issues": 174,
             "owner": "use-ink",
             "repo": "ink",
-            "stars": 1453,
+            "stars": 1452,
             "topics": [
               "blockchain",
               "domain-specific-language",
@@ -379,7 +379,7 @@
             "open_issues": 145,
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 613,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-28T15:35:19.229Z"
@@ -445,7 +445,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:19:41Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "polkadot-js",
             "repo": "api",
             "stars": 1117,
@@ -474,7 +474,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T00:32:00Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 490,
@@ -498,7 +498,7 @@
             "open_issues": 47,
             "owner": "scs",
             "repo": "substrate-api-client",
-            "stars": 265,
+            "stars": 264,
             "topics": [
               "substrate"
             ]
@@ -1355,7 +1355,7 @@
             "open_issues": 9,
             "owner": "paritytech",
             "repo": "txwrapper",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "offline",
               "polkadot",
@@ -1399,7 +1399,7 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T10:36:39Z",
+            "last_commit": "2026-11-27T06:03:29Z",
             "open_issues": 49,
             "owner": "novasamatech",
             "repo": "nova-utils",
@@ -2164,8 +2164,8 @@
             "id": 168006517,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-06T17:59:14Z",
-            "open_issues": 411,
+            "last_commit": "2026-11-26T16:59:33Z",
+            "open_issues": 410,
             "owner": "ChainSafe",
             "repo": "gossamer",
             "stars": 454,
@@ -2465,7 +2465,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T17:19:41Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "polkadot-js",
                 "repo": "api",
                 "stars": 1117,
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:00:12.101Z",
+    "last_updated": "2026-11-27T12:58:11.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",
