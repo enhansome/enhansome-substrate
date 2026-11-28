@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-03-19T15:16:40Z",
-            "open_issues": 14,
+            "open_issues": 0,
             "owner": "w3f",
             "repo": "Grants-Program",
             "stars": 1193,
@@ -448,7 +448,7 @@
             "open_issues": 47,
             "owner": "polkadot-js",
             "repo": "api",
-            "stars": 1117,
+            "stars": 1118,
             "topics": [
               "api",
               "blockchain",
@@ -727,8 +727,8 @@
             "id": 343226536,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T14:19:18Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-27T16:35:05Z",
+            "open_issues": 44,
             "owner": "virto-network",
             "repo": "virto-sdk",
             "stars": 24,
@@ -1006,7 +1006,7 @@
             "open_issues": 56,
             "owner": "polkadot-js",
             "repo": "extension",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "blockchain",
               "extension",
@@ -1399,11 +1399,11 @@
             "id": 421781829,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T06:03:29Z",
+            "last_commit": "2026-11-28T06:03:05Z",
             "open_issues": 49,
             "owner": "novasamatech",
             "repo": "nova-utils",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "blockchain",
               "dapps",
@@ -2133,7 +2133,7 @@
                 "open_issues": 13,
                 "owner": "novasamatech",
                 "repo": "subquery-history",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "blockchain",
                   "indexer",
@@ -2468,7 +2468,7 @@
                 "open_issues": 47,
                 "owner": "polkadot-js",
                 "repo": "api",
-                "stars": 1117,
+                "stars": 1118,
                 "topics": [
                   "api",
                   "blockchain",
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T12:58:11.205Z",
+    "last_updated": "2026-11-28T12:10:31.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to the Substrate blockchain development framework.",

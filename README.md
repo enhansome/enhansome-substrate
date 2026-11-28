@@ -31,7 +31,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Resources
 
-* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,193 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+* [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) ⭐ 1,193 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-19 - An `awesome list` maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 * [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
 * [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - Substrate Developer Hub repositories.
 * [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - Projects and teams building with Substrate.
@@ -119,7 +119,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Client Libraries
 
-* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,117 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
+* [Polkadot-JS API](https://github.com/polkadot-js/api/) ⭐ 1,118 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-01 - Semi-official JavaScript library for Substrate-based chains.
 * [`subxt`](https://github.com/paritytech/substrate-subxt) ⭐ 490 | 🐛 105 | 🌐 Rust | 📅 2026-11-23 - Official Rust client.
 * [Rust API Client](https://github.com/scs/substrate-api-client) ⭐ 264 | 🐛 47 | 🌐 Rust | 📅 2026-09-29 - Rust client maintained by [Supercomputers Systems AG](https://www.scs.ch/).
 * [Python Interface](https://github.com/polkascan/py-substrate-interface) ⭐ 258 | 🐛 47 | 🌐 Python | 📅 2026-11-26 - Maintained by [Polkascan Foundation](https://polkascan.org/).
@@ -129,7 +129,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) ⭐ 34 | 🐛 12 | 🌐 C# | 📅 2022-12-08 - Maintained by [Usetech](https://usetech.com/blockchain/).
 * [Subsocial JS SDK](https://github.com/dappforce/subsocial-js) ⭐ 28 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-31 - A JS SDK for developers to build web3 social apps on top of Subsocial.
 * [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) ⭐ 26 | 🐛 6 | 🌐 C# | 📅 2025-06-09 - Used in [nuget](https://www.nuget.org/packages/Ajuna.NetApi/), and [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2022-11-21; Maintained by [Ajuna Network](https://ajuna.io/).
-* [`sube`](https://github.com/virto-network/sube) ⭐ 24 | 🐛 41 | 🌐 Rust | 📅 2026-11-20 - Lightweight Rust client library and CLI with support for type information.
+* [`sube`](https://github.com/virto-network/sube) ⭐ 24 | 🐛 44 | 🌐 Rust | 📅 2026-11-27 - Lightweight Rust client library and CLI with support for type information.
 * [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) ⭐ 18 | 🐛 12 | 🌐 C++ | 📅 2023-09-04 - Maintained by Usetech.
 * [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) ⭐ 18 | 🐛 7 | 🌐 Kotlin | 📅 2021-09-10 - Maintained by [Nodle.io](https://github.com/NodleCode).
 * [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2023-08-30 - Generate Go (de)serialization/client code from Substrate metadata.
@@ -148,7 +148,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 
 ## Tools
 
-* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,021 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-23 - Browser extension for interacting with Substrate-based chains.
+* [Polkadot-JS Extension](https://github.com/polkadot-js/extension) ⭐ 1,022 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-23 - Browser extension for interacting with Substrate-based chains.
 * [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) ⭐ 464 | 🐛 40 | 🌐 TypeScript | 📅 2023-02-04 - Simple CLI tool to launch a local Polkadot test network.
 * [Sidecar](https://github.com/paritytech/substrate-api-sidecar) ⚠️ Archived - REST service that runs alongside Substrate nodes.
 * [Archive](https://github.com/paritytech/substrate-archive) ⭐ 200 | 🐛 64 | 🌐 Rust | 📅 2026-11-09 - Indexing engine for Substrate chains.
@@ -164,7 +164,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Jupiter](https://github.com/patractlabs/jupiter) ⭐ 56 | 🐛 1 | 🌐 Rust | 📅 2022-05-01 - Testnet for smart contracts written for the FRAME Contracts pallet and ink!.
 * [TxWrapper](https://github.com/paritytech/txwrapper) ⚠️ Archived - Helpful library for offline transaction creation.
 * [Hydra](https://github.com/Joystream/hydra) ⭐ 50 | 🐛 83 | 🌐 TypeScript | 📅 2024-03-19 - A GraphQL framework for Substrate nodes.
-* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 45 | 🐛 49 | 🌐 Python | 📅 2026-11-27 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
+* [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) ⭐ 46 | 🐛 49 | 🌐 Python | 📅 2026-11-28 - Contains static info & metadata to support client apps in Polkadot ecosystem to map it to various netowrks.
 * [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2023-03-05 - Monitoring and alerting solution for Polkadot nodes by Simply VC, compatible with many Substrate chains.
 * [Halva](https://github.com/halva-suite/halva) ⭐ 35 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-30 - A toolchain for improving the experience of developing on Substrate.
 * [Substrate Graph](https://github.com/playzero/substrate-graph) ⭐ 33 | 🐛 10 | 🌐 Elixir | 📅 2023-01-07 - GraphQL indexer for Substrate-based chains.
@@ -206,7 +206,7 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 * [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - Command line utility for working with cryptographic keys.
 * [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to easily create indexed data sources and host them online for free.
-  * [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) ⭐ 23 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-12 - A SubQuery API implementation for operation history and staking analytics.
+  * [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) ⭐ 24 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-12 - A SubQuery API implementation for operation history and staking analytics.
 * [Subscan](https://www.subscan.io/) - Multi-network explorer for Substrate-based chains.
 * [Subsquid](https://subsquid.io) - An indexing framework (SDK + infrastructure) to quickly and easily turn Substrate and EVM on-chain data into APIs and host them.
 * [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Plugin for Visual Studio Code.
@@ -239,10 +239,10 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 * [Scales](https://github.com/virto-network/scales) ⚠️ Archived - Serializing SCALE using type information from a type registry.
 * [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 * JavaScript / TypeScript implementations:
-  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,117 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-01 - Maintained by Polkadot-JS.
+  * [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) ⭐ 1,118 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-01 - Maintained by Polkadot-JS.
   * [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-28 - Maintained by Josep M Sobrepere.
   * [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) ⭐ 5 | 🐛 8 | 🌐 TypeScript | 📅 2023-08-03 - Maintained by Soramitsu.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
